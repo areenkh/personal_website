@@ -4,20 +4,18 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Frank Elavsky
+# Hi, I'm Areen Khalaila
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I research, design, and engineer solutions at the intersection of accessibility and technology. I am passionate about improving the usability of technology for visually impaired users and consider myself both a creator and a problem-solver.
-
-I am a Research Intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I have conducted research under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/) and Franklin Mingzhi Li, focusing on assistive technology to enhance cooking experiences for visually impaired individuals. My work involves evaluating different camera specifications to provide real-time visual feedback and guidance in kitchen environments.
+I research, design, and engineer solutions at the intersection of accessibility and technology.
 
 I am currently pursuing a Bachelor of Science in Computer Science, with a minor in Physics, at [Brandeis University](https://www.brandeis.edu/), where I am a member of the Phi Beta Kappa honor society. My senior honors thesis, advised by Prof. Dylan Cashman, explores visual perception studies with tactile representations of data for visually impaired users.
 
-In addition to my academic pursuits, I offer part-time consulting services on a case-by-case basis, from single-session calls to larger, ongoing projects. My recent collaborations include projects with [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>, [Fizz Studio](https://fizz.studio/), and [SRI](https://www.sri.com/research/education-learning/).
+I am a Research Intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I have conducted research under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/) and Franklin Mingzhi Li, focusing on assistive technology to enhance cooking experiences for visually impaired individuals. My work involves evaluating different camera specifications to provide real-time visual feedback and guidance in kitchen environments.
 
-I am always open to new opportunities and collaborations. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/areenkh) or [GitHub](https://github.com/areenkh).
+I am always open to new opportunities and collaborations. Feel free to reach out to me via email at first name dot last name at gmail dot com or [LinkedIn](https://www.linkedin.com/in/areenkh) or [GitHub](https://github.com/areenkh).
 
 <!-- Upcoming: Adobe, Atlassian?, Highcharts, UW-Madison's WGNHS, ?? -->
 
@@ -25,10 +23,10 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/frank.jpg' type='image/jpg' />
+  <source srcset='/images/areenkh.png' type='image/png' />
   <img
-    src='/images/frank.jpg'
-    alt="It's me! A white man smiling with medium-short brown hair, glasses, and a grey t-shirt.">
+    src='/images/areenkh.png'
+    alt="this is me smiling, wearing a white top and a black blazer on top">
 </picture>
 
 {:.no-list}
@@ -38,7 +36,7 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 
 </div>
 
-## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
+<!-- ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
 
 <div class="featured-projects">
   {% assign sorted_projects = site.data.projects | sort: 'highlight' %}
@@ -51,9 +49,9 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 <a href="{{ "/projects/" | relative_url }}" class="button">
   <i class="fas fa-chevron-circle-right"></i>
   Show More Projects
-</a>
+</a> -->
 
-## Featured <a href="{{ "/publications/" | relative_url }}">Publications</a>
+<!-- ## Featured <a href="{{ "/publications/" | relative_url }}">Publications</a>
 
 <div class="featured-publications">
   {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
@@ -72,17 +70,20 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 <a href="{{ "/publications/" | relative_url }}" class="button">
   <i class="fas fa-chevron-circle-right"></i>
   Show All Publications
-</a>
+</a> -->
 
 ## My background
 
 <div class="intro" markdown="1">
 
-Before embarking on a PhD I was a staff design systems engineer at Visa on their Data Experience team and lead contributor to the accessibility efforts of their first open source library, [Visa Chart Components](https://github.com/visa/visa-chart-components). We were able to do some pretty extraordinary things together and I am fortunate to have worked alongside such world-class folks.
+In 2021, I came to the United States to pursue an undergraduate degree at [Brandeis University](https://www.brandeis.edu/) in the Boston area. My passion for computer science began in eighth grade, learning to code in C# and later expanding into web development with ASP.NET. Recognizing my achievements, Brandeis awarded me a prestigious full-ride scholarship, which is given to 1 student every 4 years.
 
-Prior to Visa I had a high-octane 2 years at Northwestern University working for Research Computing Services providing data visualization support to over two dozen research projects across a wide range of disciplines. Several of my projects [won awards](https://www.frank.computer/cv/#awards) and have been featured in over 60 research publications (including the privilege of being uncredited in the [2017 Nobel Lecture on Physics](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.040502)), 100+ web articles, 4 PhD theses, 4 graduate courses, and [9 textbooks](https://www.google.com/search?q=%22Frank+elavsky%22&hl=en&tbm=bks&sxsrf=APq-WBuA3-rFi5BAWgvu7rf_ax78Iee66w:1648824562316&ei=8hBHYsf-Eu-FytMPsZ-B0AI&start=0&sa=N&ved=2ahUKEwjHv9WSjvP2AhXvgnIEHbFPACo4ChDy0wN6BAgBED0&biw=896&bih=931&dpr=2).
+Thanks to my strong coding background, I became a teaching assistant in my first year at Brandeis, a rare accomplishment. I am now a Head Teaching Assistant and lead weekly recitations while managing grading tasks and coordinating with other TAs.
 
-In my early career (before Northwestern), I worked in federal policy analyzing large, complex medicare/medicaid datasets and building visualization tools for lawyers and policymakers.
+As a student researcher at Brandeis, I lead a project under Professor Dylan Cashman, focusing on visual perception studies with tactile data for visually impaired users. Additionally, I am a research intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). At the AXLE Lab, under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/), I research assistive technology to enhance cooking experiences for visually impaired individuals.
+
+<!-- Upcoming: Adobe, Atlassian?, Highcharts, UW-Madison's WGNHS, ?? -->
+
 
 </div>
 
@@ -99,7 +100,7 @@ In my early career (before Northwestern), I worked in federal policy analyzing l
 
 </div>
 
-<div class="travel" markdown="1">
+<!-- <div class="travel" markdown="1">
 ## Latest Visits
 
 <table>
@@ -115,6 +116,6 @@ In my early career (before Northwestern), I worked in federal policy analyzing l
 </tbody>
 </table>
 
-</div>
+</div> -->
 
 </div>

@@ -1,7 +1,6 @@
 /* TEAM */
-	Author/Theme: Frank Elavsky
-	Twitter: @frankelavsky
-	From: Anacortes, WA
+	Author/Theme: Areen
+	Twitter: @areen_khalaila
 
 /* SITE */
 	Language: English
