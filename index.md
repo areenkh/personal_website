@@ -9,11 +9,15 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I research, design, engineer, contribute to standards, and talk about things at the intersection of data work and accessibility. I consider myself a maker and a builder before anything else, but I like to think I also do this work critically.
+I research, design, and engineer solutions at the intersection of accessibility and technology. I am passionate about improving the usability of technology for visually impaired users and consider myself both a creator and a problem-solver.
 
-I'm a PhD student and researcher at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dominik Moritz](https://www.domoritz.de/) and [Patrick Carrington](https://www.patrickcarrington.com/) and a member of the [Data Interaction Group](https://dig.cmu.edu/) and [AXLE Lab](https://axle-lab.com/). I am also a [W3C invited expert in data visualization in the ARIA Working Group](https://www.w3.org/groups/wg/aria/participants#:~:text=Frank%20Elavsky) and volunteer my time with [other efforts](https://github.com/dataviza11y/Why-We-Exist).
+I am a Research Intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I have conducted research under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/) and Franklin Mingzhi Li, focusing on assistive technology to enhance cooking experiences for visually impaired individuals. My work involves evaluating different camera specifications to provide real-time visual feedback and guidance in kitchen environments.
 
-I also offer part-time consulting services on a case by case basis, from single-session calls to large, on-going projects. My more recent work (both big and small) includes collaboration with the wonderful folks at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>, [Fizz Studio](https://fizz.studio/), [SRI](https://www.sri.com/research/education-learning/), [UW-Madison's WGNHS](https://home.wgnhs.wisc.edu/), [Northwestern University's MLDS](https://www.mccormick.northwestern.edu/machine-learning-data-science/), [Quansight Labs](https://labs.quansight.org/), [FiveThirtyEight](https://fivethirtyeight.com/), and [Microsoft](https://www.microsoft.com/). As of Jan 2024: I am likely booked for larger projects until the summer of 2025.
+I am currently pursuing a Bachelor of Science in Computer Science, with a minor in Physics, at [Brandeis University](https://www.brandeis.edu/), where I am a member of the Phi Beta Kappa honor society. My senior honors thesis, advised by Prof. Dylan Cashman, explores visual perception studies with tactile representations of data for visually impaired users.
+
+In addition to my academic pursuits, I offer part-time consulting services on a case-by-case basis, from single-session calls to larger, ongoing projects. My recent collaborations include projects with [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>, [Fizz Studio](https://fizz.studio/), and [SRI](https://www.sri.com/research/education-learning/).
+
+I am always open to new opportunities and collaborations. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/areenkh) or [GitHub](https://github.com/areenkh).
 
 <!-- Upcoming: Adobe, Atlassian?, Highcharts, UW-Madison's WGNHS, ?? -->
 
