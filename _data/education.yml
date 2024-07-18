@@ -1,16 +1,11 @@
-- university: Carnegie Mellon University
-  years: 2021-Present
-  degree: Ph.D. in Human-Computer Interaction
-  location: Waltham, MA
-  description:
-    - Advised by **Dylan Cashman**.
-    - "Thesis: (In progress)."
-    - Member of the AXLE Lab.
 - university: Brandeis University
   years: 2021-2025
   degree: B.S. in Computer Science
   location: Waltham, MS
   description:
+    - Advised by **Dylan Cashman**.
+    - "Thesis: (In progress)."
+    - Member of the AXLE Lab at CMU HCII.
     - "GPA: 3.8 / 4.0, Magna Cum Laude"
     - Advanced coursework on data visualization, HCI, DBMS, and software Engineering.
 
