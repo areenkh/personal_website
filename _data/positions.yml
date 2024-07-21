@@ -1,71 +1,30 @@
-- title: Research Assistant
-  years: 2021-present
+- title: Student Researcher
+  years: 2024-present
   company: Carnegie Mellon University
   location: Pittsburgh, PA
-  short_desc: "HCII, [Data Interaction Group](https://dig.cmu.edu) and [Axle Lab](https://axle-lab.com/)"
+  short_desc: "HCII, [Axle Lab](https://axle-lab.com/)"
   mentors:
-    - Dominik Moritz
     - Patrick Carrington
-- title: Accessibilitiy R&D (contract/intern)
-  years: 2024-2024
-  company: Highsoft
-  location: Vik, Norway
-  skills:
-    - Data Interaction
+- title: Student Researcher
+  years: 2023-2024
+  company: Brandeis University
+  location: Waltham, MA
+  skills: 
+    - Data Visualization
     - Accessibility
-  short_desc: Highcharts Accessibility
-- title: Data Interaction R&D (contract/intern)
-  years: 2022-2023
-  company: Apple
-  location: Pittsburgh, PA
+  short_desc: Visual Analytics Lab
+- title: Website Editor
+  years: 2023-present
+  company: Crown Center for Middle East Studies
+  location: Waltham, MA
   skills:
-    - Data Interaction
+    - UI/UX
     - Accessibility
-  short_desc: AX Visualization Team
-- title: Senior Research Scientist
-  years: 2021-2023
-  company: Fizz Studio
-  location: Pittsburgh, PA
+  short_desc: 
+- title: Software Engineer intern
+  years: 2022-2022
+  company:  TAMID Group Technology Consulting
+  location: Waltham, MA
   skills:
-    - Accessibility
-    - Web Standards
-  short_desc: Accessibility Standards, Industry Consulting
-- title: Staff Design Engineer
-  years: 2018-2021
-  company: Visa
-  location: Foster City, CA
-  short_desc: "Data Experience Team, [Visa Chart Components](https://github.com/visa/visa-chart-components)"
-  skills:
-    - Accessibility
-    - Visualization
-    - Design Systems Component Engineering
-    - Motion and Transition Design
-- title: Data Visualization Specialist
-  years: 2017-2018
-  company: Northwestern University
-  location: Evanston, IL
-  short_desc: Research Computing Services
-  skills:
-    - Geo/Astrophysics Visualizations
-    - High Density Modeling
-    - Interactive Visualization Applications
-- title: Data Visualization and Policy Analyst
-  years: 2016-2017
-  company: Acumen LLC
-  location: Burlingame, CA
-  short_desc: Data Visualization Team
-  skills:
-    - Interactive Visualization Applications
-    - Policy and Fraud Analysis
-- title: Undergraduate Research Assistant
-  years: 2015
-  company: Clemson University
-  location: Clemson, SC
-  mentors:
-    - Gabriel Hankins
-    - Vetria Byrd
-  short_desc: National Science Foundation REU Site
-  skills:
-    - Data Transformation
-    - Digital Humanities
-    - Visualization
+    - 
+  short_desc: 

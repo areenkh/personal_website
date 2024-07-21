@@ -13,9 +13,9 @@ I research, design, and engineer solutions at the intersection of accessibility 
 
 I am currently pursuing a Bachelor of Science in Computer Science, with a minor in Physics, at [Brandeis University](https://www.brandeis.edu/), where I am a member of the Phi Beta Kappa honor society. My senior honors thesis, advised by Prof. Dylan Cashman, explores visual perception studies with tactile representations of data for visually impaired users.
 
-I am a Research Intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I have conducted research under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/) and Franklin Mingzhi Li, focusing on assistive technology to enhance cooking experiences for visually impaired individuals. My work involves evaluating different camera specifications to provide real-time visual feedback and guidance in kitchen environments.
+I am a Research Intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I have conducted research under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/) and Franklin Mingzhi Li, using AI to enhance cooking experiences for visually impaired individuals. 
 
-I am always open to new opportunities and collaborations. Feel free to reach out to me via email at first name dot last name at gmail dot com or [LinkedIn](https://www.linkedin.com/in/areenkh) or [GitHub](https://github.com/areenkh).
+I am always open to new opportunities and collaborations. Feel free to reach out to me via email at first name dot last name at gmail dot com or first name kh at brandeis dot edu or on [LinkedIn](https://www.linkedin.com/in/areenkh). Check out my [GitHub](https://github.com/areenkh).
 
 <!-- Upcoming: Adobe, Atlassian?, Highcharts, UW-Madison's WGNHS, ?? -->
 
@@ -78,9 +78,9 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 
 In 2021, I came to the United States to pursue an undergraduate degree at [Brandeis University](https://www.brandeis.edu/) in the Boston area. My passion for computer science began in eighth grade, learning to code in C# and later expanding into web development with ASP.NET. Recognizing my achievements, Brandeis awarded me a prestigious full-ride scholarship, which is given to 1 student every 4 years.
 
-Thanks to my strong coding background, I became a teaching assistant in my first year at Brandeis, a rare accomplishment. I am now a Head Teaching Assistant and lead weekly recitations while managing grading tasks and coordinating with other TAs.
+Thanks to my strong coding background, I became a teaching assistant in my first year at Brandeis. I am now a Head Teaching Assistant and lead weekly recitations while managing grading tasks and coordinating with other TAs.
 
-As a student researcher at Brandeis, I lead a project under Professor Dylan Cashman, focusing on visual perception studies with tactile data for visually impaired users. Additionally, I am a research intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). At the AXLE Lab, under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/), I research assistive technology to enhance cooking experiences for visually impaired individuals.
+At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cashman, we work on research focusing on visual perception studies with tactile data for visually impaired users. Additionally, I am a student researcher at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). At the AXLE Lab, under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/), I research assistive technology to enhance cooking experiences for visually impaired individuals.
 
 <!-- Upcoming: Adobe, Atlassian?, Highcharts, UW-Madison's WGNHS, ?? -->
 

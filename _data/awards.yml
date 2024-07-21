@@ -1,39 +1,16 @@
-- name: Impactful Community Leadership, shortlist
-  years: 2023
-  sponsor: Information is Beautiful Awards
-  description: I was recognized on the shortlist (of 3 out of 20k members) for my work with the Data Visualization Society's community, fostering a space for folks to learn and connect regarding accessibility.
-- name: Outstanding Review
-  years: 2022-2024
-  sponsor: ACM CHI
-  description: I was given awards for my outstanding review contributions to CHI 2022, 2023, and 2024 (a hat trick!).
-- name: Image of the Week
-  years: 2019
-  sponsor: NASA
-  description: My Masses in the Stellar Graveyard interactive data experience won NASA's High Energy Astrophysics Archive Research Center (HEASARC) Image of the Week Award.
-- name: Kantar's IIB Longlist
-  years: 2018
-  sponsor: Kantar's Information is Beautiful Awards
-  description: My Masses in the Stellar Graveyard interactive data experience won Kantar's longlist.
-- name: Kantar's IIB Longlist
-  years: 2018
-  sponsor: Kantar's Information is Beautiful Awards
-  description: My Quantifying Career Hot Streaks interactive data experience won Kantar's longlist.
-- name: Featured Graphic in the 2017 Nobel Lectureship on Physics
-  years: 2017
-  description: Barry Barish's lecture prominently featured my figure on electromagnetic and gravitational wave detections of compact stellar objects.
-- name: Dean's Circle Scholarship
-  years: 2011-2016
-  sponsor: Trinity Lutheran College
-  description: Recurring, 60% scholarship awarded to a select group of students who participate in a conversation with the Academic Dean on a semesterly graduate-level humanities topic.
-- name: Presidential Honors
-  years: 2011-2016
-  sponsor: Trinity Lutheran College
-  description: Scholarship awarded to the top 10% performing students each year.
-- name: Organizing For Mission Cohort
-  years: 2013-2014
-  sponsor: ELCA
-  description: Scholarship and training expenses provided for students, scholars, and practitioners involved in organizing efforts in their communities.
-- name: Community Improvement Grant
-  years: 2013
-  sponsor: Forum for Theological Exploration
-  description: Grant awarded to active community organizers with promising projects.
+- name: Malkin Fellowship
+  years: 2021
+  sponsor: Brandeis University
+  description: This award is offered to one student every 4 years and was awarded based on my academic accomplishments and involvements in activities promoting global peace. 
+- name: Dean's List
+  years: 2021-Present
+  sponsor: Brandeis University
+  description:
+- name: Best Delegate
+  years: 2021
+  sponsor: MUN
+  description: 
+- name: Outstanding Delegate
+  years: 2021
+  sponsor: MUN
+  description:

@@ -1,25 +1,27 @@
-- title: "Graduate Student Mentoring"
-  year: 2022-2023
-  location: Carnegie Mellon University
-  description: I mentored a graduate student during their research-focused Master's in CS at CMU, exploring the space of machine learning descriptions of visualizations.
-  who:
-    - Ihita Mandal
-- title: "Undergraduate Mentoring"
-  year: "2022,2024"
-  location: Carnegie Mellon University
-  description: "Semester-long mentorships on the following topics: accessibility, machine-learning design, user interface design, software engineering, graph theory, assistive technology research."
-  who:
-    - Ihita Mandal
-    - Chieri Nnadozie
-- title: "Undergraduate Mentoring"
-  year: 2018
-  location: Northwestern University
-  description: I mentored an undergraduate student on two projects for the PI Sera Young, cleaning and visualizing refugee resettlement data as well as visualizing a world map of Young's Household Water Insecurity Experiences (HWISE) sites.
-  who:
-    - Jun Hwa Lee (now at Meta)
-- title: "Graduate Student Mentoring"
-  location: Northwestern University
-  year: 2017-2018
-  description: Taught graduate students in earth and astrophysical sciences professional, data-intensive skills for two summers. I personally worked with and mentored one PhD student fellow on projects related to their research.
-  who:
-    - Boris Rösler (2017 and 2018 PhD Fellow)
+- title: "Head Teaching Assistant - Advanced Programming Techniques in Java"
+  year: "2024"
+  location: Brandeis University
+  description: "I led a group of TAs and run weekly recitations. I taught a class of 70+ students the fundamentals of OOP and Data Structure in Java. Spring 2024" 
+- title: "Teaching Assistant - Operating Systems"
+  year: "2024"
+  location: Brandeis University
+  description: "Conducted weekly office hours and graded homework and exams. [Spring 2024]"
+#   # who:
+#   #   - Ihita Mandal
+#   #   - Chieri Nnadozie
+- title: "Teaching Assistant - Data Structure"
+  year: "2023"
+  location: Brandeis University
+  description: "Conducted weekly office hours and graded homework and exams. [Fall 2023]"
+- title: "Teaching Assistant - Advanced Programming Techniques in Java"
+  year: "2022-present"
+  location: Brandeis University
+  description: "Conducted weekly office hours and graded homework and exams. [Fall 2022, Spring 2023, Summer 2023, Summer 2024]"
+- title: "Teaching Assistant - Problem-Solving in Python"
+  year: "2022-2023"
+  location: Brandeis University
+  description: "Conducted weekly office hours and graded homework and exams. [Spring 2022, Summer 2022, Fall 2023]"
+- title: "Peer Tutor of Computer Science and Math - TRIO SSSP"
+  year: "2022"
+  location: Brandeis University
+  description: "Provided one-on-one tutoring to first-gen students in Computer Science and Math. [Fall 2022]"

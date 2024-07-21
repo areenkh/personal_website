@@ -5,8 +5,7 @@ title: Publications
 class: pubs
 ---
 
-# Publications
-
+# Posters
 <!-- <div id="facets" class="hidden">
   <div class="facet" id="venue_tags">
     <strong>Venue</strong>

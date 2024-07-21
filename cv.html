@@ -29,8 +29,7 @@ title: CV
 <h2>Research Area</h2>
 
 <p>
-My research focuses on <strong>advancing accessibility in technology</strong> to ensure inclusivity for all users. I am passionate about <strong>developing assistive technologies</strong> that enhance daily life activities. My work involves <strong>engineering innovative solutions</strong> and tools that provide real-time feedback and guidance, as well as conducting <strong>user-centered studies</strong> to assess and improve these technologies. I aim to <strong>contribute to global accessibility standards</strong> and promote the adoption of inclusive practices in both academic and industry settings. By examining and addressing the challenges faced by visually impaired users, my research seeks to <strong>empower individuals with the tools and information they need to thrive</strong>.
-</p>
+  My research interests lie at the intersection of <strong>human-computer interaction, accessibility, and visualization.</strong> My work focuses on creating inclusive, user-centered design solutions that provide real-time feedback and guidance. By exploring and addressing the unique challenges faced by individuals with disabilities, I aim to contribute to global accessibility standards and promote the widespread adoption of inclusive practices in both academia and industry.</p>
 
 
 
@@ -86,7 +85,8 @@ My research focuses on <strong>advancing accessibility in technology</strong> to
 
 <!-- Conference|Journal|Book Chapter|Demo|Workshop|Thesis -->
 
-{% assign types = "Conference|Book Chapter|Micro-paper|Poster" | split: "|" %} 
+<!-- {% assign types = "Conference|Book Chapter|Micro-paper|Poster" | split: "|" %}  -->
+{% assign types = "Poster" | split: "|" %} 
 {% for type in types %}
   {% assign counter = 1 %}
   {% for pub in sorted_pubs %}
@@ -150,7 +150,7 @@ My research focuses on <strong>advancing accessibility in technology</strong> to
   {% endfor %}
 {% endfor %}
 
-
+<!-- 
 <h2>Patents</h2>
 
 {% for patent in site.data.patents %}
@@ -165,10 +165,10 @@ My research focuses on <strong>advancing accessibility in technology</strong> to
       {% endfor %}
     </p>
   </div>
-{% endfor %}
+{% endfor %} -->
 
 
-<h2>Notable Awards</h2>
+<h2>Awards</h2>
 
 {% for award in site.data.awards %}
 <article>
@@ -184,7 +184,7 @@ My research focuses on <strong>advancing accessibility in technology</strong> to
 {% endfor %}
 
 
-<h2>Mentoring</h2>
+<h2>Teaching & Mentoring</h2>
 
 {% assign filtered_mentoring = site.data.mentoring | where_exp:'item','item.hidden == null' %}
 {% for mentor in filtered_mentoring %}
@@ -209,20 +209,22 @@ My research focuses on <strong>advancing accessibility in technology</strong> to
 {% endfor %}
 
 
-<h2>Talks, Courses, Workshops  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
+<!-- <h2>Relevant Coursework <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2> -->
+<h2>Relevant Coursework </h2>
+
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
 <article>
   <h3 class="cv-talk-title">{{ title.name }}</h3>
-  {% assign sorted_talks = title.items | sort: 'date' | reverse %}
+  <!-- {% assign sorted_talks = title.items | sort: 'date' | reverse %}
   {% for talk in sorted_talks %}
     <div class="date-container">
       <time datetime="{{ talk.date }}">{{ talk.date | date: "%b %Y" }}</time>
       <span class="fill">{{ talk.location }}{% if talk.city %}, <small class="muted">{{ talk.city }}</small>{% endif %}</span>
 
     </div>
-  {% endfor %}
+  {% endfor %} -->
 </article>
 {% endfor %}
 
@@ -285,12 +287,12 @@ My research focuses on <strong>advancing accessibility in technology</strong> to
     Assistant Professor, Human-Computer Interaction Institute<br/>
     <i>Carnegie Mellon University</i><br/>
   </p>
-
+<!-- 
   <p>
     <strong>Franklin Mingzhe Li</strong><br/>
     PhD Student, Human-Computer Interaction Institute<br/>
     <i>Carnegie Mellon University</i><br/>
-  </p>
+  </p> -->
 </div>
 
 </section>
