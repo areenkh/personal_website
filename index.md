@@ -15,7 +15,7 @@ I am currently pursuing a Bachelor of Science in Computer Science, with a minor 
 
 I am a Research Intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I have conducted research under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/) and Franklin Mingzhi Li, using AI to enhance cooking experiences for visually impaired individuals. 
 
-I am always open to new opportunities and collaborations. Feel free to reach out to me via email at first name dot last name at gmail dot com or first name kh at brandeis dot edu or on [LinkedIn](https://www.linkedin.com/in/areenkh). Check out my [GitHub](https://github.com/areenkh).
+I am always open to new opportunities and collaborations. Feel free to reach out to me via email at first name kh at brandeis dot edu or on [LinkedIn](https://www.linkedin.com/in/areenkh). Check out my [GitHub](https://github.com/areenkh).
 
 <!-- Upcoming: Adobe, Atlassian?, Highcharts, UW-Madison's WGNHS, ?? -->
 
