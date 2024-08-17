@@ -82,7 +82,9 @@ title: CV
 
 <h2>Publications <a href="{{ '/publications/' | absolute_url }}">[Interactive Version]</a></h2>
 
-{% assign sorted_pubs = site.publications | reverse %}
+<!-- {% assign sorted_pubs = site.publications | reverse %} -->
+{% assign all_pubs = site.symposiums | concat: site.publications %}
+{% assign sorted_pubs = all_pubs | sort: 'year' | reverse %}
 
 <!-- Conference|Journal|Book Chapter|Demo|Workshop|Thesis -->
 
