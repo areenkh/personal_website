@@ -53,6 +53,18 @@ class: pubs
 {% endfor %}
 {% endfor %}
 
+### Research Symposiums 
+
+{% assign urcc_publications = site.symposiums | where: "venue_tags", "URCC" %}
+{% for pub in urcc_publications %}
+  {% include publication.html pub=pub %}
+{% endfor %}
+
+{% assign cmu = site.symposiums | where: "venue_tags", "CMU" %}
+{% for pub in cmu %}
+  {% include publication.html pub=pub %}
+{% endfor %}
+
 <!-- <script src="https://cdn.jsdelivr.net/npm/itemsjs@1.0.40/dist/itemsjs.min.js"></script> -->
 <script>
   {% include itemsjs.min.js %}
