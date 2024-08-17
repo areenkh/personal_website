@@ -33,7 +33,8 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 * {{ site.address }}
 
-Fun fact about me is my name in Arabic means lion's den.
+Fun fact about me is my name </br>
+in Arabic means lion's den.
 </div>
 
 </div>
