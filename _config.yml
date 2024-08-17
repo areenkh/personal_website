@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # production_url: "https://areenkh.github.io/personal_website"
 baseurl: "/personal_website"  # the subpath of your site, e.g., /blog
 url: "https://areenkh.github.io"  # the base hostname & protocol for your site
-production_url: "https://areenkh.github.io/personal_website"
+production_url: "https://areenkh.com"
 github_username: areenkh
 permalink: /blog/:year/:month/:title.html
 
