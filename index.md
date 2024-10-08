@@ -74,7 +74,7 @@ in Arabic means lion's den.</p>
   Show All Publications
 </a> -->
 
-## My background
+<!-- ## My background
 
 <div class="intro" markdown="1">
 
@@ -82,12 +82,12 @@ In 2021, I came to the United States as an international student to pursue an un
 
 Thanks to my strong coding background, I became a teaching assistant in my first year at Brandeis. I am now a Head Teaching Assistant and lead weekly recitations while managing grading tasks and coordinating with other TAs.
 
-At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cashman, we work on research focusing on visual perception studies with tactile data for visually impaired users. Additionally, I am a student researcher at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). At the AXLE Lab, under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/), I research assistive technology to enhance cooking experiences for visually impaired individuals.
+At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cashman, we work on research focusing on visual perception studies with tactile data for visually impaired users. Additionally, I am a student researcher at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). At the AXLE Lab, under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/), I research assistive technology to enhance cooking experiences for visually impaired individuals. -->
 
 <!-- Upcoming: Adobe, Atlassian?, Highcharts, UW-Madison's WGNHS, ?? -->
 
 
-</div>
+<!-- </div> -->
 
 <div class="news-travel" markdown="1">
 
