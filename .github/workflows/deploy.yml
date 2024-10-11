@@ -1,4 +1,4 @@
-name: Deploy Jekyll site to GitHub Pages
+name: Deploy Jekyll Site to GitHub Pages
 
 on:
   push:
@@ -7,24 +7,22 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Make sure you are using a supported GitHub-hosted runner
+    runs-on: ubuntu-latest  # or self-hosted if you have no control over the runner
 
     steps:
-    - name: Checkout the repository
+    - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 3.1.4  # Set your desired Ruby version
-        bundler-cache: true  # Cache installed gems automatically
-
-    - name: Install dependencies
+    - name: Install Dependencies
       run: |
+        sudo apt-get update
+        sudo apt-get install -y rbenv
+        rbenv install 3.1.4
+        rbenv global 3.1.4
         gem install bundler
         bundle install
 
-    - name: Build the site
+    - name: Build the Jekyll site
       run: bundle exec jekyll build
 
     - name: Deploy to GitHub Pages
