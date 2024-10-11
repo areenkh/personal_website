@@ -107,30 +107,30 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
 <div class="journey" markdown="1">
 ## Highlights from My Journey
 
-<div class="photo-grid">
-  <div class="photo-container">
+<!-- <div class="photo-grid"> -->
+  <!-- <div class="photo-container">
     <img src="{{ '/images/journey/IMG_4147.PNG' | relative_url }}" alt="Poster Presentation">
     <div class="overlay">Final Poster Presentation at CMU HCII REU 2024</div>
-  </div>
-  <div class="photo-container">
+  </div> -->
+  <!-- <div class="photo-container">
     <img src="{{ '/images/journey/brandies_urcc.png' | relative_url }}" alt="Conference Talk">
     <div class="overlay">Brandeis URCC Research Symposium 2024</div>
-  </div>
-  <div class="photo-container">
+  </div> -->
+  <!-- <div class="photo-container">
     <img src="{{ '/images/journey/IMG_0974.JPG' | relative_url }}" alt="Graduation Ceremony">
     <div class="overlay">High School Graduation</div>
-  </div>
-  <div class="photo-container">
+  </div> -->
+  <!-- <div class="photo-container">
     <img src="{{ '/images/journey/1718582117115.jpeg' | relative_url }}" alt="CMU HCII REU First Day">
     <div class="overlay">CMU HCII REU Orientation</div>
   </div>
   <div class="photo-container">
     <img src="{{ '/images/journey/IMG_1248.JPG' | relative_url }}" alt="Coding Camp in 2021">
     <div class="overlay">Coding Camp in 2021</div>
-  </div>
+  </div> -->
   <!-- Add more photos as needed -->
-</div>
-</div>
+<!-- </div> -->
+<!-- </div> -->
 
 <!-- <div class="travel" markdown="1">
 ## Latest Visits
