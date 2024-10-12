@@ -21,7 +21,7 @@ jobs:
       - name: Build Jekyll
         run: bundle exec jekyll build
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3.1  # Updated version
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
