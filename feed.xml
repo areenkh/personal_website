@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://www.areenkh.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.areenkh.com/" rel="alternate" type="text/html" /><updated>2024-10-12T07:13:49+00:00</updated><id>https://www.areenkh.com/feed.xml</id><title type="html">Areen Khalaila</title><subtitle>Undergraduate student at Brandeis University.
+</subtitle><entry><title type="html">Another New Post</title><link href="https://www.areenkh.com/blog/2024/07/another-new-post.html" rel="alternate" type="text/html" title="Another New Post" /><published>2024-07-18T03:28:00+00:00</published><updated>2024-07-18T03:28:00+00:00</updated><id>https://www.areenkh.com/blog/2024/07/another-new-post</id><content type="html" xml:base="https://www.areenkh.com/blog/2024/07/another-new-post.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">My New Post</title><link href="https://www.areenkh.com/blog/2024/07/my-new-post.html" rel="alternate" type="text/html" title="My New Post" /><published>2024-07-18T03:25:00+00:00</published><updated>2024-07-18T03:25:00+00:00</updated><id>https://www.areenkh.com/blog/2024/07/my-new-post</id><content type="html" xml:base="https://www.areenkh.com/blog/2024/07/my-new-post.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://www.areenkh.com/blog/2024/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-07-18T02:47:18+00:00</published><updated>2024-07-18T02:47:18+00:00</updated><id>https://www.areenkh.com/blog/2024/07/welcome-to-jekyll</id><content type="html" xml:base="https://www.areenkh.com/blog/2024/07/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="post My New Post" /><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Researchers: Stop passing the baton and finish your own race</title><link href="https://www.areenkh.com/blog/2024/07/baton-passing.html" rel="alternate" type="text/html" title="Researchers: Stop passing the baton and finish your own race" /><published>2024-07-11T00:00:00+00:00</published><updated>2024-07-11T00:00:00+00:00</updated><id>https://www.areenkh.com/blog/2024/07/baton-passing</id><content type="html" xml:base="https://www.areenkh.com/blog/2024/07/baton-passing.html"><![CDATA[<p>I need to say this up front: If you are a researcher who does research trying to do “good” for the world and then also gets involved seeing things through, this post isn’t really intended for you. My audience are the researchers who only research but still talk about “justice,” doing “good,” and advocating for “social good.”</p>
+
+<p>Too many folks (yes even some of the ones who exclusively research marginalized folks) talk the talk but don’t walk the walk. This is meant as a provocation for that audience.</p>
+
+<p>I also do work at the intersection of human-computer interaction (HCI) and accessibility. Most of what I say below assumes some sort of HCI audience, but I reckon that all kinds of researchers interested in doing “good” for the world in other disciplines will find worthwhile parallels.</p>
+
+<h2 id="the-way-the-researchers-social-role-is-framed-is-naive">The way the researcher’s social role is framed is naive</h2>
+
+<p>Researchers tend to frame their work as either a knowledge gap or an innovation gap. For those researchers who believe themselves to be good, the assumption here is that if we (the proverbial “we”) just simply <em>knew</em> more or had <em>new</em> techniques/systems, others could “solve” problems like inaccessibility. Bad stuff happens (by this logic) as a result of missing knowledge or technology. This is the knew/new kind of approach, as I like to say. This, however, is naive.</p>
+
+<p>Researchers imagine themselves playing a role in the production of solutions somewhat along these lines: “I am the brilliant individual who discovers and innovates! After I do what I do best, it is then up to the lowly, downstream “practitioners” or “community members” to find, understand, and act upon my work. The researcher-practitioner gap is always the practitioner’s problem! If the world doesn’t improve, I know that I did my part at least. I passed the baton. It is their turn to sprint!” But research papers and obscure, unmaintained github repositories are virtually worthless to outsiders.</p>
+
+<p>So, the major factor that holds back research (and progress) IS social in nature. As an example in my own field of work: we know a lot about inaccessibility and we have all kinds of great tools and systems and techniques. But what we lack is action at scale, people getting involved, and real change taking place. Chartability, my past work, wasn’t assembled with a research outcome in mind. It was an attempt to bridge knowledge gaps so that practitioners could actually have resources to build a better world. I’ve since worked tirelessly to see it used at Microsoft, FiveThirtyEight, [an NDA collaboration], Visa, Highsoft, Project Jupyter, local and federal US gov orgs, and as an interface with international standards bodies. And my Data Navigator project has had a similar approach but as an innovative tool. I didn’t just make a cool new thing. Now I’m working with Quansight/Bokeh, [2 other NDA collaborations], tldraw, Atlassian, and 2 separate individuals to actually implement/adapt the project towards their problem spaces (or simply advise/consult in their journey). I am following through on my work, not just hoping someone else is inspired enough to do it themselves.</p>
+
+<h2 id="passing-the-baton-or-assuming-it-should-be-passed-isnt-working">Passing the baton (or assuming it should be passed) isn’t working</h2>
+
+<p>To accomplish good in the world, I would argue that we need more than just a classist knew/new approach of baton passing. The baton passing isn’t working. It’s time to change how we frame our role in all of this. We can’t simply continue putting out papers without doing something about it. Believing ourselves to be the top of the ladder in a hierarchy of social action towards good fundamentally limits the good we are capable of.</p>
+
+<p>For me, I work with “practitioners,” so I’ll speak from that experience. (Not everyone does, some folks work with “communities” or otherwise). And yes, practitioners just don’t want to do things sometimes, even if it is the right thing to do or a good thing. It’s a waste of our work to just blame them for this. The reality of practitioners not doing what we want them to is precisely why the baton passing assumption is so frustrating in its arrogance. If we really cared about outcomes, we wouldn’t just get mad at our roommate for not doing the dishes. We would either do the dishes ourselves, find a way to make life more equitable with some kind of intervention, or simply get a new roommate/move out. Researchers need more social maturity.</p>
+
+<p>I have spent a lot of time in practitioner spaces and still do. I obviously spent the first part of my career <em>as</em> one. And nowadays, about 8 hours per week of my time during the school year is spent on non-research collaborations with industry partners. I’ve heard my collaborators say they don’t have time for accessibility work, even though they feel like they know what they should be doing and even have tools available (common feedback from journalists and startups). Others believe inaccessibility is just inevitable, so they shouldn’t worry about it. Some have told me that they don’t want to work on accessibility because it makes them feel bad about their work (knowing they aren’t good enough). Others don’t work on accessibility simply because they are understaffed, under-resourced, or actively coerced against it. Not doing the right thing can be traced back to all kinds of reasons.</p>
+
+<p>But fundamentally researchers who are interested in a better world must recognize praxiological and ethical gaps to be filled with action, not merely epistemological or ontological gaps to be filled with knew/new stuff. This is why “justice” is a much better term than simply “social good” (which tends to be popular in more liberal, less critical, techno-positivist spaces). “Justice” is an action-oriented term, while “social good” is easier to relegate to the space of pure ideas. (And of course, even problematic researchers are very much still embedded in “justice” spaces of research and publication.)</p>
+
+<h2 id="its-high-time-for-impact-and-outcomes">It’s high time for impact and outcomes</h2>
+
+<p>We need research focused on <em>outcomes</em> at scale. We need policy, interventions, communities, collaborations, and culture that focus on concretely and materially realizing a better world. This is going to feel risky and offer far fewer rewards to researchers because it probably won’t result in the same number of citations per hours of their lives they spend. But if we really believe in justice then we can’t just keep discovering knowledge and innovating, we have to work to follow through. We need comprehensive strategies for addressing barriers people face in a variety of contexts. We need organizational and political action. We need to be willing to put our careers on the line, spending time doing something other than traditional research output. We need to protect and support early career researchers who are taking these risks. We need to be part of de-risking this, for the sake of others we might never meet. We need researchers who have a moral backbone and an actual spine for demonstrating real trailblazing behavior. Bad people don’t just innovate as fast as researchers, but they act on their innovations at a far more rapid pace. We are losing to forces that want to marginalize “expensive” people for maximum, low-hanging profits.</p>
+
+<p>Human rights and a just future is on the line and I’m tired of the research community simply continuing to pump out papers without getting their hands dirty. Senior researchers need to advocate and carve out space for future generations to still get hired AND get tenure doing activities that aren’t just publication-based. We need financial and material incentives set in order to encourage this better world we keep talking about.</p>
+
+<h2 id="gentle-caveats">Gentle caveats</h2>
+
+<p>I want to clarify strongly here that many (if not all) of my peers at the intersection of accessibility and visualization are wonderful people. I hope to encourage all of them to keep doing what they’re doing, to keep fighting for a better world. And I hope (for everyone reading) this provocation is taken as an invigoration, as inspiration, and as a space to reflect.</p>
+
+<p>The outcome I do not want from this post is to see people disheartened or depressed. What I want to see is maturity, growth, hope, and a commitment to doing things (and framing things) in a better way.</p>
+
+<p>That being said, I also (quite passive aggressively) am “sub-tweeting” (sub-blogging?) 2 very specific faculty who have abused my peers (PhD students) and taken advantage of the good work they are doing. All the above applies to them AND a very specific middle finger for taking credit their student’s work without contributing. If you are faculty and your students are actually doing work towards a better world, you sure as hell better be doing everything in your power to clear a path for them in every way you can. I don’t want to see someone take credit for “disability justice” if you haven’t materially done anything towards that yourself.</p>]]></content><author><name></name></author><category term="research" /><category term="social good" /><category term="justice" /><category term="outcomes" /><summary type="html"><![CDATA[I'm tired of the prevailing, classist assumption researchers have that they bring knowledge and novelty into the world so that someone else can do something about it. Time to get your own hands dirty.]]></summary></entry><entry><title type="html">LLMs: From having thoughts to managing them</title><link href="https://www.areenkh.com/blog/2024/06/llms-and-thoughts.html" rel="alternate" type="text/html" title="LLMs: From having thoughts to managing them" /><published>2024-06-25T00:00:00+00:00</published><updated>2024-06-25T00:00:00+00:00</updated><id>https://www.areenkh.com/blog/2024/06/llms-and-thoughts</id><content type="html" xml:base="https://www.areenkh.com/blog/2024/06/llms-and-thoughts.html"><![CDATA[<p>Opening caveat before I begin: I don’t know anything about cognitive science (and I don’t really know much about anything else either). But I definitely know the vibes I feel. And I want to talk about the vibes I feel when I work with big, complex systems and do analytical work. So this is a post about my own vibes, really.</p>
+
+<p>So to start, I don’t get up in the morning with any excitement to work with large-language models (LLMs). (This’s something a friend of mine Lukas first said of themselves and its become a reflection of my own ever since.)</p>
+
+<p>I simply love the feeling of developing an understanding of and relationship with a system at a lower level. I like the feeling of some degree of manipulation and control of small details and deterministic functionalities. I like clearly expressing myself with a logic that can be consistently interpreted every time. The consistent interpretation of my expressions help me validate my own thoughts, find problems, and iterate.</p>
+
+<p>Part of what I love about technical work is discovering <em>myself</em> as I reflexively work with technical materials. I have assumptions of how something should work and then can consistently test those assumptions quickly and directly against a system that provides fast, interpretable feedback. I enjoy code because it helps me feel a sense of confidence and understanding of my own thoughts.</p>
+
+<p>But I read a recent <a href="https://statmodeling.stat.columbia.edu/2024/06/24/forking-paths-in-llms-for-data-analysis/">provocation/post by Hullman</a> exploring/poking at what sort of balance makes sense between human domain knowledge and machine assistance. In it, Hullman compares different types of analytical help as interventions from either a rule-based assistant, a human stats consultant, or an LLM that works like the human consultant. A major point in the piece is that there is a gray-area level of problem-solving that we often offload onto computational systems (LLMs, logic-based agents, interfaces, or otherwise). The ideal balance between human knowledge and machine assistance is fuzzy.</p>
+
+<p>Of course, asking a human for assistance and asking an LLM for assistance both set a stage where there is some delegation of thinking going on. Some level of detail in control and understanding of an analytical system is sacrificed to another agent in order to collaborate. And I agree with Hullman that in the context of problem-solving or work, the human and LLM agent likely serve a relatively similar role here (not necessarily considering ethics, accountability, or other socio-technical things though).</p>
+
+<p>We’ve had similar discussions in our own lab for the past two years (at least) about levels of abstraction in software. We don’t engineer electrical circuitry by hand, let alone actually move electricity by ourselves from one place to another. We rely on the existing computational “stack” where I could write something in typescript, which is transpiled into javascript, which is parsed by a browser, which then passes stuff down all the way through assembly and down to our physical machine in order to perform a vast amount of electrical operations in a matter of mere milliseconds. So does an LLM, as a new layer of abstraction, really matter? Why or why not? (This isn’t really a settled debate in the lab, either.)</p>
+
+<p>Scripting (non-compiled) languages in particular had a strong resistance when they first came about. But now javascript and python, as just two examples, have utterly ruled the world we live in for the past 15 years. So is present-day resistance to LLMs really just a repeating example of lower-level engineers and workers getting frustrated that their level of abstraction is being replaced by something higher?</p>
+
+<p>Perhaps. And that isn’t necessarily a bad critique to have, either. If solving problems quickly and a scale is the only moral good, then perhaps it <em>is</em> bad. But wanting job security or a sense of enjoyment with your work is actually quite important.</p>
+
+<p>But if I’m going down in history as a luddite (or perhaps at best just irrational about where I think “good” automation is in computational interaction), I suppose I should at least explore my thoughts on this.</p>
+
+<p>And I like how thinking about something feels. To me, that’s why I get up in the morning. I love tricky problems, big systems, and hard questions. I don’t like them because solving them is satisfying but because <em>working though them</em> is. I actually understand myself (and feel a sense of satisfaction with who I am) when I can reflexively work with technical systems. I have a hard time really understanding and trusting my own thoughts. Interaction with low level details is how I come to witness my own values and priorities form.</p>
+
+<p>And unlike automation that I write myself to alleviate tedium for my own tasks (or automation I’ve never thought about like however assembly actually works when I write javascript), using an LLM to do certain work for me feels like lost opportunities to try to understand something. And this by extension becomes a lost chance to know more about myself, too. I miss out on the experience of feeling my own thoughts forming.</p>
+
+<p>This brings me to the same reason that I don’t like generative models that produce art of any kind (images, videos, writing, etc). At a very personal level, I’ve been writing fiction pretty much my whole life. I first started forming characters and stories in my head when I was 9, developed a little world when I was 12, and then made the first version (of now 6+ versions) of a tabletop rpg where I could explore this world with my friends.</p>
+
+<p>And it would be obscene to me to ask a model to create anything within this world for me. The joy of creation and forming my thoughts are one of the most precious experiences I have in my life. And the second most precious experience I have in my life is when I share this world and these characters I crafted with my closest friends.</p>
+
+<p>I recently played in a D&amp;D game that someone else hosted but for the first time I decided to use a generative model to help me visually illustrate my character. Then we show up to the first session and the host had hand-drawn all of our characters (and little tokens for us) by herself. And I realized how sickly and inhuman it was to use a model to accomplish something that could have instead connected me closer to my friends and the character whose story I was trying to craft with them. Sure, the style of the character I made with a model was interesting aesthetically. But then I also considered how this model really just extracted some other (actual) artist’s real style in order to produce my character.</p>
+
+<p>So in the same way, I don’t like LLMs for analytical + systems work for the same reason I don’t like the idea of generative models taking art from me. I wouldn’t ask a robot to dance for me if I wanted to learn how to dance. That’s because I want to know how dancing <em>feels,</em> even while I am stumbling about and learning. Part of that stumbling (when you learn to dance) involves developing a better sense of feeling your own body. Asking a machine to dance takes away the opportunity to know your own body in the same way asking a machine to think takes away a sense of my own self-understanding. I certainly <a href="https://www.wired.com/story/volar-dating-app-chatbot-screen-matches/">wouldn’t want an AI to go on a first date for me</a>, I’d want to do that myself. I want to know what I think and how I feel about someone. Even though it is hard, it’s very important for me to do. And when I analyze data, build an interface, or engineer some kind of system, I also want to feel a sense of understanding form in my mind and then try to figure out technically how to make that understanding a reality.</p>
+
+<p>I often feel that my “vibes” argument isn’t popular with computer and cognitive/behavioral scientists. Computer scientists are in it for speed and scale. And LLMs help speed and scale, so vibes are a hard argument with them. And I am far too ignorant to explain myself meaningfully to a cognitive or behavioral scientist, so I don’t even try. So I understand that a lot of other people simply won’t agree or relate at all to this post, which is fine. Other people don’t gain a sense of themselves through their work, I guess? I have no idea how other people form thoughts and know what they value.</p>
+
+<p>But tech bros in particular I understand intimitely. And they <em>love</em> the managerial vibes of LLMs. So to tech bros, they understand a “vibes-based” approach but fundamentally disagree with my conclusion. Tech bros want the vibes that power offers them when they have an agent perform work for them. LLMs (borrowing the Hullman framing) help tech bros solve problems because of a sort of delegation of tasks. There’s some black box effect and trust required, but working with models largely converts any or all forms of difficult, analytical work into a sort of management work instead.</p>
+
+<p>But I don’t like management. And LLMs don’t just convert <em>work</em> into management, they convert art into management. They convert <em>thinking</em> anything at all into thinking about management. They convert a love of a craft into managing a machine. They boil down all the passion and frustration and struggle and joy of creation into tasks that a perfectly vibeless worker completes on your behalf. It’s the singularity that capitalism fantasizes about: everyone becomes their own boss of a labor force that never complains. The only thing that matters is whether the outcome of the process works or not.</p>
+
+<p>I see three major sides in this game: folks like me (who dislike LLMs for whatever reason), folks who are relatively ambivalent towards them or use them as if they are just some additional tool, and then the ones who are responsible for the everything-ai craze we are now experiencing.</p>
+
+<p>My issue here lies with the latter. This feral, meteoric rise in popularity for LLMs and generative models is really due to an underlying, massively repressed cultural bedrock beneath a handful of people in the tech world. These dreamers believe in their bones that they should have already become billionares, but simply never got the break they deserved. And no billionare ever made billions off of their own labor. Being a billionare is only possible by profiting off of someone else’s work. And LLMs offer to deliver this fantasy that so many petite capitalists have delusions about. LLMs are popular because of a wider cultural obsession with capitalistic vibes.</p>
+
+<p>But to me the cost is far too great. I of course will still write and love and work and do all the hard but wonderful things that give me a sense of who I am. But I’ll have fewer and fewer chances to do these things while still making a living. And so many others won’t have the same opportunities that I had (for example, to learn that they even liked working on hard problems and discovering their own thoughts). I can’t imagine being a high schooler today and ever caring about writing in a journal if an LLM is just going to write everything else in my life for me. I don’t just worry about an atrophy of skills, but an atrophy of understanding at a social and personal level that those skills facilitated for me.</p>
+
+<p>Looking to the future, it’s likely bleak. If LLMs don’t make it and the bubble bursts, far too many people will be laid off and burnt out as a result. The road will be paved in blood, either way. And if LLMs do survive this bubble and all their promises come true? Then LLMs aren’t just coming for our jobs, but our thoughts and vibes.</p>]]></content><author><name></name></author><category term="large-language-models" /><category term="llms" /><category term="thinking" /><category term="vibes" /><summary type="html"><![CDATA[Large-language models aren't just coming for our jobs, their coming for our thoughts and vibes.]]></summary></entry><entry><title type="html">Filling the potholes of the web.</title><link href="https://www.areenkh.com/blog/2024/04/filling-potholes.html" rel="alternate" type="text/html" title="Filling the potholes of the web." /><published>2024-04-22T00:00:00+00:00</published><updated>2024-04-22T00:00:00+00:00</updated><id>https://www.areenkh.com/blog/2024/04/filling-potholes</id><content type="html" xml:base="https://www.areenkh.com/blog/2024/04/filling-potholes.html"><![CDATA[<h2 id="what-do-we-do-when-our-digital-infrastructures-remain-neglected">What do we do when our digital infrastructures remain neglected?</h2>
+
+<p>Every single year I read the <a href="https://webaim.org/projects/million/">WebAim Million</a> report and hope that real progress has been made. But sadly, 97 - 99% of the web’s top 1 million home pages contain a critical accessibility failure that can be automatically detected. The web is really bad for people with disabilities and it has not gotten much better over the past 5 years since this large-scale survey started. I’ve even written about how <a href="https://www.frank.computer/blog/2022/03/facing-the-scale-of-digital-inaccessibility.html">things are probably a whole lot worse that 99% inaccessible</a> too: only basic tests were run (not any of the harder or more complex issues), many issues can’t be reliably caught with automated tests anyway (many false negatives), and only home pages were tested (which I assume are likely made more accessible than all the branching side-pages on any given website).</p>
+
+<p>Unlike the web, in realspace communities can come together to take action to repair the world around them. In Portland, <a href="https://www.bloomberg.com/news/articles/2017-03-15/portland-anarchist-road-care-fixes-potholes-anonymously">anarchists took action and began filling potholes</a> that the city had continued to neglect. While the anarchists had a minor impact in the scale of potholes they filled (they only claimed to have fixed 5 total), they <a href="https://www.portland.gov/transportation/news/2017/2/24/news-release-pbot-launches-patch-thon-address-potholes-caused-winter">pressured municipal officials to host a “patch-a-thon”</a> that resulted in more than 1000 fixed potholes.</p>
+
+<p>But in digital spaces, like on the web, we might “share” social media content with each other. However, we don’t share the same material infrastructure in the same way realspace is shared. As the anarchists in Portland identified, <a href="https://www.oregonlive.com/commuting/2017/03/why_portland_anarchists_are_pa.html">“coercive hierarchies” can often prevent direct action and repair in times of need</a>.</p>
+
+<p>If someone “repairs” a website to make it more accessible for people with disabilities, those changes to the HTML, CSS, or JavaScript only persist for that person and during that session. If they reload their webpage, they get the same page infrastructure dished up to them from a server as everyone else would. All the labor of that repair is lost in an instant.</p>
+
+<p>The web’s technological infrastructure is governed by careful control of codebases, each managed and maintained by different organizations, communities, and companies. Even an “open source” website still regulates who can make changes to the code that lives on a server.</p>
+
+<p>But if the current status quo of sociotechnical governance continues to fail people with disabilities - shouldn’t it be time to fill the potholes of the web, like the Portland anarchists eventually did?</p>
+
+<h2 id="my-prototype-and-our-group-project">My prototype and our group project</h2>
+
+<p><a href="https://github.com/frankelavsky/filling_potholes/">My latest class project is a browser extension</a> that explores the idea that edits and repairs to broken and inaccessible infrastructure can be shared across sessions and users, so long as they all share the same extension. This is just a prototype that uses static changes to a single website, so that we could get validation and feedback from folks with disabilities on the idea first.</p>
+
+<p>The core idea for the project has been mine for a while now (a couple of years, in fact). But as a group, my collaborators have taken the idea even further, refining it and exploring it from different angles. Our big-picture goals involve keeping track of all of the changes made on a server, flagging issues for others to fix, intelligently managing identical assets such as alt text for the same images that might crop up in different locations, socially moderating and reviewing the changes made by others, automatically sending reports and github tickets to the owners of the original code being repaired, handling of multiple attempts at repair (such as different people authoring alt text for the same image), as well as a feedback system that people can give to other repairers and the codebase owners.</p>
+
+<p>The technology used for this idea is inspired by two separate research projects: first is the idea of “<a href="https://maggieappleton.com/ambient-copresence">ambient co-presence</a>.” Here, we are exploring an <em>ambient co-repair</em>, where the vestiges and lingering traces of others aren’t just ghostlike or aesthetic, but rather people leave their mark through the subtle and careful repair of the shared digital spaces we inhabit. The other idea is inspired by a project from CSCW where users had a browser extension and could <a href="https://dl.acm.org/doi/10.1145/3555643">change the headlines on news articles to fix sensationalized and click-baity language</a> into something factual or more reasonable.</p>
+
+<h2 id="our-case-example-and-context-a-really-bad-article-on-how-accessibility-has-failed">Our case example and context: a really bad article on how “accessibility has failed”</h2>
+
+<p>I focused my repair on a single article by the now-infamous Jakob Nielsen that is ironically titled, <a href="https://jakobnielsenphd.substack.com/p/accessibility-generative-ui">“Accessibility Has Failed: Try Generative UI = Individualized UX”</a>. My fellow groupmate Julia brought the article to our group and it is a perfect example of a website with content that is sorely inaccessible.</p>
+
+<figure>
+    <img src="https://www.frank.computer/images/failed.png" alt="Screenshot of Jakob Nielsen's article. VoiceOver screen reader is on a navbar icon of Jakob's face and the screen reader is announcing Unlabeled Image, Unlabeled Image." />
+    <figcaption>The very first element a screen reader accesses in the article for "Accessibility has failed" is a link that is unlabeled that contains an image without a description. Not a great start!</figcaption>
+</figure>
+
+<p>The page has no alt text on any images, in the article and outside of the article (in images across the rest of the page). It also notably uses images as links (<code class="language-plaintext highlighter-rouge">&lt;a&gt;</code> elements), but they operate like <code class="language-plaintext highlighter-rouge">&lt;button&gt;</code> elements, and have no label, or ARIA information at all. The page also hides the keyboard’s default focus indicator within the article and provides no label for many buttons on the page. To a screen reader user (especially if blind), this article would be a barren, confusing landscape.</p>
+
+<p>Painfully, the article’s main point is that large-language models might someday empower people with disabilities to build their own interfaces. If we use the metaphor of broken infrastructure, this would be like expecting wheelchair users in the 1970s to cut their own curbs. The assumption would then be that if demolition and construction equipment was cheap enough, surely wheelchair users would have the time, energy, and knowledge to cut the curbs that the city and legislators failed to.</p>
+
+<p>The burden of repair, access, or “fit” being placed on people with disabilities is, and has been, a justice issue in technological innovation for a long time. I’ve <a href="https://arxiv.org/pdf/2304.08748.pdf">written about the issue of placing technical/system-related burdens</a> on users with disabilities as well in one of my prior micro-papers. Ultimately, the people who built something broken should fix their own work.</p>
+
+<h2 id="feedback-from-blind-people">Feedback from blind people</h2>
+<p>I reached out to two blind folks I know, both of whom are fairly technical people (both have skills writing code and are familiar with modern advancements like LLMs and generative models). One is congenitally blind with no sight and the other has progressive blindness with partial remaining vision (very little acuity and about 10 degrees of visual field).</p>
+
+<p>I showed them both the original article, watched them parse the page with their screen reader, and then we had a discussion about the piece.</p>
+
+<figure>
+    <img src="https://www.frank.computer/images/filled.png" alt="Screenshot of Jakob Nielsen's article. VoiceOver screen reader is on a navbar icon of Jakob's face and the screen reader is announcing visited, link, image, Home page. Pothole filled by user @frankElavsky 04/18/24." />
+    <figcaption>I've added alt text and improved accessibility markup across the page. I pretended to fill most of the elements honestly, but one element was filled by an "angryUser" who left unkind remarks about Jakob's face and another element was filled by "ChatGPT" (which was the same text Jakob used in the article for that same image).</figcaption>
+</figure>
+
+<p>After that, I had them install my extension and then parse the page again. We discussed the idea behind the extension and I got their thoughts and feedback.</p>
+
+<p>Overall, my friends were relatively reserved and concerned with the practicality of the idea both socially and technically. The idea seemed good if enough people were involved and the stuff out there on the web lasted long enough.</p>
+
+<p>One noted that changing a page is a good idea but “this probably won’t scale well. What happens if the page updates something and the reference you have to the image changes? Or the owner uses the same page at a new link? Simple things like that might be hard to deal with.” We would have have to build a really robust system to handle the relatively transient state of the web’s core functionalities. Imagining constantly adding alt text to every new product image posted to Amazon, audio descriptions for every reel on instagram, or anything else related to the regular churn of the internet seemed unfeasible to them.</p>
+
+<p>They also noted that the solutions added might come too late. They noted that viral pages, posts, and content get most of their traffic early on. But if nobody has flagged something as inaccessible or an issue and then a do-gooder doesn’t respond in time, the opportunities to help people when they needed it could be mostly lost.</p>
+
+<p>The other participant loved the idea and saw use for it in the context of web content that “tends to last longer than most social media.” I followed up and asked for examples, they mentioned this could include things like articles, recipies, blog posts, knowledgebases, repositories, wikis, archives, videos, and games. They also mentioned that “reddit has a lot of use over time compared to other social media sites,” so repair would “make sense there because I still find myself on reddit posts more than a decade old regularly.”</p>
+
+<p>However this participant was primarily concerned with moderation issues. We had a lengthy discussion about how frustrating social spaces can be when people start using something like alt text “to voice opinions rather than just explain what something is.” They mentioned that social media already has this problem even when people write their own alt text. And it could get worse if someone was able to essentially graffiti someone else’s page (my choice of words here).</p>
+
+<p>Despite their reservations, both participants expressed excitement at the possibility of using this anarchist approach to get companies and people in power to do the right thing. They mentioned that being able to automatically send complaints as well as a request for a fix would be really helpful. We also discussed the idea of having a third automatic communication channel to a disability lawyer who could begin to build a case for litigation, since historically that has been a significant moving force in the space of accessibility and is <a href="https://www.forbes.com/sites/gusalexiou/2023/06/30/website-accessibility-lawsuits-rising-exponentially-in-2023-according-to-latest-data/?sh=6e86d0ef717f">gaining massive traction in recent years</a>.</p>
+
+<p>So perhaps the outcomes of this idea are similar to the Portland anarchists: the individual actions of repair may not be enough to solve the problems we have at scale, but it might just be enough to get the attention our broken digital world so desperately deserves.</p>]]></content><author><name></name></author><category term="anarchism" /><category term="accessibility" /><category term="repair" /><category term="ambient co-presence" /><category term="cscw" /><summary type="html"><![CDATA[People with the power to fix our inaccessible web have failed to do it for long enough. Isn't it time to imagine ways we can repair the web without waiting for them?]]></summary></entry><entry><title type="html">Strange avatars: Body-doubling with strangers</title><link href="https://www.areenkh.com/blog/2024/02/strange-avatars.html" rel="alternate" type="text/html" title="Strange avatars: Body-doubling with strangers" /><published>2024-02-14T00:00:00+00:00</published><updated>2024-02-14T00:00:00+00:00</updated><id>https://www.areenkh.com/blog/2024/02/strange-avatars</id><content type="html" xml:base="https://www.areenkh.com/blog/2024/02/strange-avatars.html"><![CDATA[<p>So this post is really a bit of a reflection on a recent assignment in Ken Holstein’s <em>Prototyping Algorithmic Experiences</em> class. I was paired with a group of other students and we each set out to explore what it might be like to build a productivity tool that uses “<a href="https://add.org/the-body-double/">body-doubling</a>” in some way. (We chose this direction as a group.)</p>
+
+<p>Body-doubling is, in many ways, a concept and a practice that turns techno-individualism on its head. Rather than assuming the ideal outcome is that a person somehow has total self-sufficience when performing certain tasks, body-doubling reveals how powerful the social aspect of human behavior can be. For a great read on unpacking how <em>individualism</em> and <em>independence</em> can even be an ableist framing in technology research, check out <a href="https://dl.acm.org/doi/10.1145/3234695.3236348">Cynthia Bennett’s work on interdependence</a>.</p>
+
+<p>Body-doubling is a brain-hack that helps people be more productive and <em>in the zone</em> simply because they are working alongside another person. They don’t really have to interact or hold each other accountable at all. There is just a shared understanding that the time they have together is for getting stuff done. Communities who are ADHD, autistic, neurodiverse, and/or have <a href="https://add.org/executive-function-disorder/">executive dysfunction</a> have really spearheaded this practice, especially in recent years. It’s wonderful.</p>
+
+<p>But of course, body doubling is something generally done in person with someone else and typically you know them. But are there ways we could imagine some kind of body-doubling on-demand? Like you just need to set aside some time to get work done and don’t really want to go through the trouble of planning and coordinating with a friend? (Keep in mind, <em>executive dysfunction</em> is something that folks who love body-doubling struggle with!)</p>
+
+<h2 id="challenges-and-goals">Challenges and Goals</h2>
+<p>So I wondered: what if your body double was a stranger? And what if there was some kind of match-making magic that just paired you with another person? (As a note, someone else on my team was exploring what that <em>magic</em> might look like as their contribution to our parallel prototyping.)</p>
+
+<p>I believe this might help with fast match-making, taking away much of the executive difficulties of coordinating a session. In addition, this could also help facilitate on-demand productivity, which might actually benefit and compliment some <a href="https://www.reddit.com/r/ADHD/comments/mtlmp5/are_spontaneous_bursts_of_productivity_common/">ADHD productivity habits</a>.</p>
+
+<p>In particular, the fact that some ADHD folks are highly productive in short, unpredictable bursts is not something I wanted to frame as a negative trait or design against. Most self-help and pseudo-science literature on productivity talks about regularity and self-sufficient, consistent, commitment as cornerstone behaviors of productive people. Instead of following this assumption, I wanted to imagine how to empower the existing productivity behavior of ADHD folks through on-demand body-doubling. Essentially I’m asking, “can we <em>enhance</em> existing ADHDer’s spontaneous hyper-productivity behavior?”</p>
+
+<p>HCI research especially has a habit of imagining and designing technology according to normative standards that try to enforce “ideal” human behavior and outcomes (such as holding people with disabilities to conform to neurotypical, medically non-disabled, and/or capitalistic behavior, further reading: <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3581480">1</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3581556">2</a>, <a href="https://dl.acm.org/doi/10.1145/3432245">3</a>). This approach to and motivation for technology and innovation is often an ableist, medicalizing framing, despite its wide popularity. I wanted to avoid assuming someone else’s existing behavior is bad and rather just investigate how to enhance body-doubling.</p>
+
+<p>So! If you were paired with someone who was a stranger, there are some potential issues we need to consider. First, is that you might not feel safe or could be uncomfortable having to introduce yourself or interact according to social expectations of some kind. What if the other person is racist or sexist? What if you don’t feel fully able to be yourself and instead want to <a href="https://add.org/adhd-masking/">mask</a> in the other person’s presence? And of course, I reckon that we might run into what I’m dubbing “the Omegle problem” (obscenity, nudity, offensive behavior, etc).</p>
+
+<p>So I wondered: what if we weren’t really ourselves in these spaces? And what if what we could do when we interact with others was limited to a set of certain actions or behaviors?</p>
+
+<p>First, I took inspiration from <a href="https://en.wikipedia.org/wiki/VTuber">VTubers</a> or “virtual youtubers.” These are avatars (typically custom 2D or 3D character models), rigged with facial-recognition capabilities. VTubers will typically stream or create online video content appearing as this character. And due to their popularity, some companies even feature Vtuber characters as official spokespeople or mascots.</p>
+
+<p>My assumption is that if everyone looks different than their normal selves, they might feel less obligated to act according to particular social conventions, may feel safer being themselves, and have less opportunities to be prejudiced towards their partner. I reckon this will have a positive impact on their experience and productivity (that’s my conjecture, at least).</p>
+
+<figure>
+    <img src="https://www.frank.computer/images/gawr_gura.png" alt="An anime character who is wearing a shark hoodie. Behind them is a screen that says All about bloop (with bloop written in scratchy hand-writing). Just the facts! Name: Gawr Gura. Birthday: Jun 20. Age 9927. Height: 141cm. My favorites! Color: Blue. Food: Salman. Likes: Food. PWWIE. Dislikes: Hot sand. Biggest fear: Loud Stomak." />
+    <figcaption><a src="https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g">Gawr Gura</a>, considered one of the most popular, family-friendly Vtubers on YouTube. Screenshot taken from her debut video stream.</figcaption>
+</figure>
+
+<p>And to help keep activity regulated and safe, I drew inspiration from online multiplayer video games and the concepts of avatars with emotes: in games, such as World of Warcraft, Fortnite, or the indie game Lethal Company, players look like in-game characters but have a limited set of actions that they are capable of making.</p>
+
+<figure>
+    <img src="https://www.frank.computer/images/lethal_dance.png" alt="Two players in Lethal Company, dancing. They are wearing their company-issued hazmat suits. Their dancing looks awkward and dorky, which is likely an intentional design choice by the game developers." />
+    <figcaption>Players using the "Dance" emote in <a src="https://en.wikipedia.org/wiki/Lethal_Company">Lethal Company</a>, an indie game about salvaging in horrific conditions for an even-more-horrific space-capitalist mega-corp.</figcaption>
+</figure>
+
+<p>So my idea: What if we used the facial recognition features of Vtubers to help make avatars feel alive to maintain a sense of presence with another person, but limited what other actions the avatar was capable of, in order to help participants stay focused and productive?</p>
+
+<h2 id="strategy">Strategy</h2>
+
+<p><strong>The pitch</strong>: We pair strangers who body-double to get tasks done, but they each appear as animal-themed vtuber avatars. Their avatars cannot speak but track their facial movements, head direction, and expressions. There are chat capabilities and the option to send emoji (of a limited set) to the other participant.</p>
+
+<p>Participants have to type out a sentence to the other at the start of the session that explains what they hope to accomplish in 10 minutes, and then can focus on their task.</p>
+
+<p>After the 10 minute session, I send participants an email with follow-up questions.</p>
+
+<p>My goals for this prototype are really to get a sense of the “experience extrema” (the best and worst ends of my hypotheses):
+Investigating my most negative assumptions:
+Are avatars distracting? Disruptive? Is it still off-putting or nerve-wracking to body-double with a stranger? Do people feel unsafe? Is the regulation of interactivity stodgy, robotic, or impersonal feeling?</p>
+
+<p>And my most positive assumptions:
+Are avatars fun? Do people feel safe? Are the participants able to get their work done? Do they enjoy the experience? Can avatars help disarm or dissolve potenially distracting differences between people, such as language, culture, or otherwise?</p>
+
+<p>Luckily, Zoom actually has a feature for desktop users where you can enable pretty good avatars, which will allow us to test our vtube-atar prototype as a realtively high-fidelity, working prototype. We won’t have close control over the environmental factors, but it lets us really explore the avatar portion with working facial recognition and relatively cute choices of animals.</p>
+
+<p>I had volunteers (both from class and also my personal social network) sign up, and I paired them with strangers (folks they didn’t know).</p>
+
+<figure>
+    <img src="https://www.frank.computer/images/vtubatars.png" alt="A polar bear and a rabbit participant in a call together. In chat, laezel the bunny hehe wrote: i need to write an email to my mom about how to buy a new phone. anon wrote: I want to turn 10 recent emails in my inbox into 0 emails (by responding to them). laezel the bunny hehe responded: we emailin O.O. and anon wrote back: Aw yeah." />
+    <figcaption>Two participants, starting their session together.</figcaption>
+</figure>
+
+<h2 id="findings">Findings</h2>
+<p>Overall? The prototype was a success. Folks had fun and were able to complete their tasks as well. Response to the avatars helped provide some supporting evidence for some of our positive extrema hypotheses.</p>
+
+<p>Of course, since this was for a class project and the prototype sessions were relatively long (about 20 - 30 minutes from start to finish, including setup, working, and follow-up), I only had 4 total participants. Interestingly, without prompting or asking, 3 of the 4 participants self-identified as neurodivergent in some way when we mentioned this was a body-doubling prototype experience. I didn’t ask the 4th whether they were or not, but it is good to know I managed to select participants whose feedback would be valuable for this kind of activity.</p>
+
+<p>I’d love to further this prototype and study, especially to explore more deeply potentially negative downsides (a sort of experiential risk assessment, if you would).</p>
+
+<p>Some of the questions and responses from participants (all anonymized here, I just selected some of my favorite responses):</p>
+<h3 id="did-using-an-avatar-make-you-feel-more-or-less-comfortable-when-co-working-with-a-stranger">Did using an avatar make you feel more or less comfortable when co-working with a stranger?</h3>
+<ul>
+  <li>“Way more comfortable! Based on my past experiences with body doubling: I expect that I would have been more self-conscious otherwise, and would have felt more responsible for managing a social interaction.”</li>
+</ul>
+
+<h3 id="what-are-your-thoughts-about-lack-of-talking-did-that-help-you-focus-did-it-feel-impersonal">What are your thoughts about lack of talking? Did that help you focus? Did it feel impersonal?</h3>
+<ul>
+  <li>“I understand why there is a lack of talking, and I think it was helpful for focusing. It would be hard for me personally to not be distracted if there was “mysterious” background noise or voices.”</li>
+  <li>“Controlling environmental noise is important for me when I study and work. I also think a lot of my focus would go toward making sure I don’t disrupt another person. However, it would feel impersonal if the person I was with didn’t engage at all through chat. Seeing the avatar move also helped it feel more like a real person was there vs just some robot.”</li>
+  <li>“I’m glad that we were asked not to talk. I think it was important for me not to attend too much to the particulars of the stranger (not hearing their voice helped with this), and also not to have to dedicate too much of my brain to thinking about how I look or sound. I think it helped me focus. I base this on my past experiences with body doubling, where it always takes me a while to “recover” and re-focus when another person makes eye contact and talks to me. In this experience, by contrast, there was none of that. But I still got the benefits of body-doubling!”</li>
+</ul>
+
+<h3 id="how-did-you-feel-about-the-emotes-and-text-communication-did-you-feel-motivated-to-chat-or-type-to-the-other-person-was-it-distracting">How did you feel about the emotes? And text communication? Did you feel motivated to chat or type to the other person? Was it distracting?</h3>
+<ul>
+  <li>“I enjoyed the text communication and emotes because it makes the experience less isolated while not being entirely consuming. I am also used to this type of communication format within a community space. It was nice to see a chat response pop-up every now and then when I would look up from my work - like a little treat.”</li>
+</ul>
+
+<h3 id="were-the-avatars-fun-or-funny-enjoyable-interesting">Were the avatars fun or funny? Enjoyable? Interesting?</h3>
+<ul>
+  <li>“The avatars were fun! I thought being in “cute avatar mode” made my task feel more enjoyable. I kept thinking: “Look at that cute lil’ animal co-working with that other cute lil’ animal. Oh wait, that’s me!” I’d much prefer answering a bunch of emails as a cute animal avatar living in a void, versus as myself.”</li>
+  <li>“The avatars were really fun, funny, and cute. I enjoyed watching my own avatar as well as my partners to see what they were doing.”</li>
+  <li>“The cow avatar is mvp.”</li>
+</ul>
+
+<h3 id="did-you-feel-distracted-or-like-the-mood-wasnt-serious-enough-for-working-on-your-task">Did you feel distracted or like the mood wasn’t serious enough for working on your task?</h3>
+<ul>
+  <li>“I wasn’t distracted - it was very easy to focus. I actually usually seek out a whimsical, fun mood when completing work tasks. So this was perfect.”</li>
+  <li>“Initially, it can feel not too serious when you first experience an avatar and how it tracks your facial expressions, head position, etc.”</li>
+  <li>“I definitely wanted to play around a bit at first. Once that novelty wears off a little, it’s not distracting, but more feels comfortable.”</li>
+</ul>
+
+<h3 id="how-would-you-feel-about-sharing-your-own-screen-do-you-feel-that-would-be-important-or-necessary-for-the-exercise-what-concerns-would-you-have-about-sharing">How would you feel about sharing your own screen? Do you feel that would be important or necessary for the exercise? What concerns would you have about sharing?</h3>
+<ul>
+  <li>“I would not feel comfortable sharing my screen with a stranger.”</li>
+  <li>“Probably wouldn’t want to do that, I’d have to worry about a lot if I did that.”</li>
+</ul>
+
+<h3 id="did-you-feel-it-was-necessary-or-helpful-to-type-out-what-task-you-were-trying-to-do-before-you-started-what-advantages-or-disadvantages-do-you-feel-come-with-disclosing-this">Did you feel it was necessary or helpful to type out what task you were trying to do before you started? What advantages or disadvantages do you feel come with disclosing this?</h3>
+<ul>
+  <li>“Typing out my task was helpful because it gave me a focus and purpose. It’s also fun getting feedback from the person I was chatting with.”</li>
+  <li>“I see it as an advantage in that it’s a helpful reminder for myself to be accountable. I also don’t see it as a disadvantage because I get to choose what and how much I share about the work I’m doing. If I was intentionally procrastinating or trying to avoid doing my work, then sharing my task could feel bad.”</li>
+  <li>“Yes! I always find this helpful in co-working sessions because it helps me reflect upon what I most want to accomplish during the session. I then feel somewhat accountable for completing that task (or tasks). I feel that I can always choose to disclose as much or as little information as I want about task(s). So I don’t see any disadvantages, personally.”</li>
+</ul>
+
+<h3 id="additional-remarks-unprompted">Additional remarks (unprompted)</h3>
+<ul>
+  <li>“Oh as some feedback, I really wish I could have customized my avatar more! It was really cute but wasn’t totally me. I’d love to have a big bow or some makeup or maybe different clothes.”</li>
+</ul>
+
+<h3 id="other-findings-and-thoughts">Other findings and thoughts</h3>
+<p>Well, controlling the environment with zoom had a few unexpected accidents. Namely, a participant accidentally turned on their mic at one point and a participant in each session still had their profile picture shown (which meant they weren’t totally anonymous).</p>
+
+<figure>
+    <img src="https://www.frank.computer/images/moovatar.png" alt="A racoon and a cow participant in a call together." />
+    <figcaption>The cow's highlight ring is showing, meaning their microphone was broadcasting. Profile pictures in chat have been scrubbed from this image, but in the original one person had a selfie of themselves shown next to each message they typed into chat (zoom's default behavior).</figcaption>
+</figure>
+
+<p>Of course, this was a prototype but in the future it would be great to use a higher-fidelity prototype that doesn’t rely on zoom, one where we can control the environment more carefully and also automatically anonymize our participants. Set-up was significant work for one participant in particular who actually had to update their zoom client (which they hadn’t done in a while), taking nearly 15 minutes total just to get started.</p>
+
+<p>Also, we love the idea of exploring personalization more with the avatars as well as intentionally pairing participants who don’t speak the same language, to see if translation-bots or assistants can help bridge gaps in a natural way that doesn’t feel distracting. I think that having avatars capable of waving, dancing, cheering, or performing some other simple actions with their hands or arms also might be worth exploring further as well. Oh, and profile pictures should reflect the person’s current avatar too.</p>
+
+<h2 id="meta-reflections">Meta-reflections</h2>
+<p>Of course, because this is me and I’m gonna do my thing, I’ve been stewing a bit on our exercise (which is to explore productivity + technology + algorithmic experiences). Here’s where I do some navel-gazing, after watching other groups present their work.</p>
+
+<p>I think it is really interesting that in this productivity exercise, many of the other students in our class carry some assumptions about what productivity is or how to frame their problem or solution spaces. For example:</p>
+<ul>
+  <li>There are normative “good” things that people should conform to (such as concepts like “self-motivation”)</li>
+  <li>Continuing that, individualistic productivity is an ideal outcome (people should be productive all on their own)</li>
+  <li>The idea that “intrinsic” motivation is even real (cognitive science would argue that most all cognitive activity is a result of external stimulus in some way or another, whether based on present, past, or future stimulus or imagined stimulus)</li>
+  <li>A lack of productivity is <em>bad</em> (perhaps the exercise itself motivates this) and should be “solved”</li>
+  <li>“Habits” are intrinsically related to productivity (what even IS a habit?)</li>
+  <li>The experiential neutrality of tech intervention (IE, that a pop-up or reminder isn’t good or bad, painful or wonderful, it’s just neutral)</li>
+  <li>Why some people experience a lack of productivity (behaviorally), for example having low-dopamine production or response (like ADHD), intersections with poverty or abuse or other socio-economic factors, negative associations with failure/inability or starting/finishing something, perfectionism/OCD, lack of social support, chronic illness, lack of interest/stimulation, or depression.</li>
+  <li>Historically, what factors have contributed the most to productivity (war, colonialism, Protestant guilt aka the “Protestant work ethic,” funding, egalitarian revolution, managerial capitalism, etc).</li>
+  <li>Socially/personally, what conditions are when people are/have been most “productive” (caring for a newborn, when playing a video game, when working a job, when you have an administrative assistant, etc)</li>
+</ul>
+
+<p>Having assumptions isn’t necessarily bad, per se. We all have them, of course. But I think that good prototyping comes about when we are willing to question our assumptions. Really novel, spicy and provocative ideas emerge when we are willing to interrogate our most formative assumptions about our own values, understanding, and intentions. I’m wondering if there could be some kind of way to teach students (or have them learn by example) what questioning your own assumptions can look like, without falling into some Philosophy 101 course. Or perhaps, as things tend to be with me, all roads lead back to philosophy eventually.</p>]]></content><author><name></name></author><category term="prototyping" /><category term="coursework" /><category term="user research" /><category term="avatars" /><category term="body-doubling" /><category term="strangers" /><summary type="html"><![CDATA[I was assigned to build a little prototype and test it with users for a class. I chose to investigate what it might be like to facilitate a body-doubling productivity session between two strangers. But both of them looked like silly animals.]]></summary></entry><entry><title type="html">On PhD life: Being behind and doing justice</title><link href="https://www.areenkh.com/blog/2024/02/behind-and-justice.html" rel="alternate" type="text/html" title="On PhD life: Being behind and doing justice" /><published>2024-02-12T00:00:00+00:00</published><updated>2024-02-12T00:00:00+00:00</updated><id>https://www.areenkh.com/blog/2024/02/behind-and-justice</id><content type="html" xml:base="https://www.areenkh.com/blog/2024/02/behind-and-justice.html"><![CDATA[<p>So this will be a new format for me: a proper blog post that responds to a tweet. I’m trying to get off of social media more but also centralize my thoughts a bit, too.</p>
+
+<p>So <a href="https://x.com/quendergeer/status/1757025614509334547?s=20">this post had me stewing a bit</a>. You don’t really have to read it or what it is responding to, just know that it is about how PhD programs often have a strong pull because people feel guilty (and perhaps unworthy or wasteful with their lives). A PhD’s allure is sometimes about trying to live up to expectations someone else put on you (that you’re gifted or smart or should do something for the world).</p>
+
+<h2 id="being-behind">Being behind</h2>
+<p>I’ve come to realize in recent years that much of my own life has just been motivated by this deeply held belief that I am behind.</p>
+
+<p>Being chronically ill led me to feel like I was wasting life. <a href="https://x.com/FrankElavsky/status/1637093741319057410?s=20">I’ve written about this before</a>, but I’m sure many others feel the same for their own (or similar) reasons. Days and days of my childhood were spent just doing nothing “productive” at all. I just wasted away in pain, often dreaming up fantasy worlds and inventing games and systems to distract myself with.</p>
+
+<p>And so most of what I’ve done (and <em>how</em> I’ve done it) has been some form of overcompensation.</p>
+
+<p>And the motivations for my own PhD are really a mix of three things (the first is the only one I used to talk about):</p>
+<ol>
+  <li>A desire to openly contribute ideas to the world (and that this is a way for me to enact justice, to help make the world a little bit better)</li>
+  <li>The belief I will have finally “caught up” if I get a PhD and no longer need to feel so guilty</li>
+  <li>Avoiding boredom (I just think a PhD would be more interesting than industry work)</li>
+</ol>
+
+<p>The last one I’ve known for a while: I just get bored of certain things or have trouble sustaining interest in one thing over time. I loved my past jobs but I just don’t care to make more money for shareholders every day and maintain already-built systems. There’s nothing wrong at all with folks who like to maintain things, either! But as someone with an interest-based nervous system, I kinda need to chase interesting things or else I’ll literally just become depressed.</p>
+
+<p>So 1 and 3 on that list seem like pretty true (and also good) reasons to do a PhD. But the idea that by doing a PhD I will have caught up to wherever I <em>should</em> be? Total fallacy. There’s no such thing as where I <em>should</em> be. I know this, of course, even though I still feel it in the marrow of my bones.</p>
+
+<p>I think a lot of folks were told they should be someone (or were gifted or destined to change the world). A PhD for them might be a way to really explore that, for better or for worse. But for me, the #2 on that list is less about <em>being</em> someone and more about being some<em>where</em> (or some<em>when</em>). I’m sure these are all tightly related though, anyway.</p>
+
+<p>And in my closest conversations (especially since last year), I’ve discovered that I’ve been desperate not to show myself as weak, learning, lost, or growing. I’m so afraid of being found out - that folks will learn I don’t belong. I need to act like I belong in this place and time, even though I feel like some kind of time traveler who is desperate to restore “the chosen timeline” that he should be living.</p>
+
+<p>So much of what I do and have done in my life is some form of running and hiding, fluctuating between <a href="https://en.wikipedia.org/wiki/Autistic_masking">masking</a> my personality and masking my time management.</p>
+
+<p>And in that sense, I’ve come to see myself as a sort of coward. Because it takes immense courage to stop trying to move so fast. It takes immense courage to grow roots; to sit still long enough to connect to others. It takes courage not to mask.</p>
+
+<p>I’m learning to be courageous in a new way, I suppose. (I am absolutely horrible at this, for what it’s worth.)</p>
+
+<p>But in a bitter sort of way, I <em>am</em> perhaps behind. But I’m not behind in the sense that I should have accomplished certain things or attained some level of worthiness to occupy space in the world. I’m behind in the sense that I have untended weeds in my garden and friendships I’ve let slip through the cracks. I’m behind because I have joy I’ve neglected and pieces of myself I’ve kept from the light. I’m behind because I’ve spent years of my life in an alternate timeline, as a different version of myself; the version I thought I should be.</p>
+
+<p>At least I see this now. But I’ve got work to do.</p>
+
+<h2 id="doing-justice">Doing justice?</h2>
+<p>But something that has itched in the back of my brain for the past couple of months still irks me: <em>what the hell am I doing, then?</em></p>
+
+<p>I care about justice. I really do. That, I think, isn’t some sort of falsehood or overcompensation. For a while, <a href="https://x.com/FrankElavsky/status/1697096069367116157?s=20">I thought I was just a poser</a> and all my passion for justice was just another veil that kept me from realizing that I was a huge fake and out of place. I genuinely spent months of my life just thinking I was a total faker and I was chasing justice because it made me feel like I was somehow morally worthy of being alive.</p>
+
+<p>Of course after getting through the depression of one of my heroes lambasting me (rightfully so, I suppose), I realized that I really do care about justice. That’s genuine. It’s still my main reason for getting up every day and I’m sure it will continue to be until I die.</p>
+
+<p>But if I really do care about justice, then why don’t I live justly for <em>myself</em> too? Should I also treat myself with some sort of justice? What would that look like? Is “justice” just catching up? Making up for what I missed? Probably not. I’ve been doing that my whole life and it has been a time thief.</p>
+
+<p>An academic paper made me really re-think much of my life this past year. It was by Alexandra To at DIS, “<a href="https://dl.acm.org/doi/10.1145/3563657.3596057">Flourishing in the everyday</a>.” The paper points the research community towards something vitally important that it has failed to pay attention to: <em>why</em> we do the work that we do. Often research is framed in terms of solving problems, filling gaps, and fixing things that are broken. But To offers a new framing: centering on the desire, flourishing, self-actualization, and collaborative, distributed power that already exists in communities. What are they already doing? What do they love? What gives them life? Perhaps justice begins when we center ourselves there.</p>
+
+<p>And I think my entire life has been about a damage-centered motivation for myself. Thinking that I am behind and then motivating myself forward because of that is precisely the sort of ableist framing that parallels the racism in the damage-centered reductionism To speaks to.</p>
+
+<p>If I’m enough as I am, then what sort of things would motivate me towards desire, flourishing, and self-actualization? Would I still be a researcher? Would I still work in data visualization? Accessibility?</p>
+
+<p>This provocation (“I am enough, so now what?”) has been something I just can’t shake off. I left the tech industry because I felt that creeping sense of boredom and I knew that I wanted to be able to openly contribute stuff to the world. And before I had a tech job, I was a barista. At that time in my life, I also did a lot of community organizing. I left that life simply because it was taxing on my body, paid terribly, and didn’t have good health insurance. I’m chronically ill, after all.</p>
+
+<p>But there was something that was (in some ways) truer about my work as a barista than everything else that followed since: I wasn’t “solving problems” by making coffee for people. I was providing other folks with something that I hoped would bring them joy. And I loved making coffee. In fact I still do. Every morning I make drinks for myself, my partner, and our pets (who get tiny, milk-only “pawttes”) and find deep join making drinks any time we have guests.</p>
+
+<p><img src="https://www.frank.computer/images/coffee.jpg" alt="A swirling design of milk foam rests on top of a soft bed of coffee crema. It resembles a whirlpool or as if a fern leaf was twisted into a spiral." style="display: block; width: 50%; margin-left: auto; margin-right: auto;" /></p>
+
+<p>So what? Do I quit my PhD and open a coffee shop?</p>
+
+<p>No. But I do recognize that this train of thought is perhaps why so many PhDs dream of dropping out and opening a little bakery in a tight-knit community or something. To me, reflecting on my coffee-making days (which I did for 9 years, longer than my “professional” years post-coffee from 2016 to the present 2024) reminds me that my joy and flourishing is in the <em>approach</em> I take in my work. What I loved about making coffee wasn’t the literal coffee. It was <em>sharing</em> the love I have for my craft with someone else.</p>
+
+<h2 id="the-how-and-the-what">The how and the what</h2>
+<p>So now I see two challenges before me: the <em>how</em> and the <em>what</em>.</p>
+
+<p>My first real challenge is figuring out how I can pursue what gives me joy, a sense of exploration, and freedom while still being able to share that with others. I need to be able to share what I love or I will simply just dissolve into darkness. I don’t care if I come across as a validation-seeking worm or a gloating fool, I need to be able to put my work out there and watch people’s faces light up and gears start turning. That’s what gets me up in the morning. That’s what gives me a real sense of flourishing. To me, that is the justice I need to be able to afford for myself.</p>
+
+<p>And the second challenge perhaps isn’t any less mysterious than it already was: but do I need to be a PhD student or attain a PhD in order to live in this way? Is there something that the PhD enables me to do this sort of flourishing I might not be able to otherwise? Perhaps is the openness (relative to industry) something that necessitates me staying here? Or is there another kind of work or environment where I can still get this sense of self-actualization and joy?</p>
+
+<p>Perhaps there is! Of course, I’m not thinking of dropping out of my PhD anytime soon. But lately I’ve become much more open to the idea that there is a lot of other stuff I could do out there. I’ve taken myself so seriously that I’ve forgotten to be just <em>to myself</em>. And now that I’m more amenable to telling my own story in a way where I am not always a gap-filler or problem-solver, but instead a joy-giver and gift-sharer, then perhaps many more avenues open up for me.</p>
+
+<p>Thanks largely in part to my time at Apple, I’ve discovered that I love prototyping. I could do that all day, every day. I love making strange little things, exploring an idea, getting feedback on it, refining it, and then passing it off. What a great way for me to still satisfy the <em>how</em> challenge.</p>
+
+<p>But also, I’ve spent years of my life (21 at least) just dreaming up stories and worlds and systems. I’ve been making a tabletop RPG (on version 7, mind you) in a setting of my own (with more than 600 pages of materials) for the sole purpose of sharing joy with friends. Perhaps spending time writing and finish that project would be worthwhile. Or perhaps a career in games is waiting down the line for me. Who knows?</p>
+
+<p>But for my own justice, it is time for me to be much more present with myself and stop trying to reach into the future.</p>]]></content><author><name></name></author><category term="being" /><category term="regret" /><category term="anxiety" /><category term="fear" /><category term="cowardice" /><category term="courage" /><category term="academia" /><category term="justice" /><category term="joy" /><summary type="html"><![CDATA[People do PhDs for all sorts of reasons. But I've come to realize that one of mine has been that I've been trying to prove something to myself. I'm sure that I'm not alone.]]></summary></entry><entry><title type="html">What is a prototype?</title><link href="https://www.areenkh.com/blog/2024/01/what-is-a-prototype.html" rel="alternate" type="text/html" title="What is a prototype?" /><published>2024-01-22T00:00:00+00:00</published><updated>2024-01-22T00:00:00+00:00</updated><id>https://www.areenkh.com/blog/2024/01/what-is-a-prototype</id><content type="html" xml:base="https://www.areenkh.com/blog/2024/01/what-is-a-prototype.html"><![CDATA[<div style="max-height: 400px; overflow: hidden;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Design_Thinking_Workshop_WMDE_Prototyp_Wiki-Dorf.jpg" alt="A paper and pipe cleaner prototype that is constructed in three dimensions, with hand written text in German and little figures of people, buildings, and a robot." />
+</div>
+<p><em>A prototype. <a href="https://commons.wikimedia.org/wiki/File:Design_Thinking_Workshop_WMDE_Prototyp_Wiki-Dorf.jpg">Corinna Schuster (WMDE)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</em></p>
+
+<h2 id="background-reading">Background reading</h2>
+<p><em>This post is an excerpt of a reading reflection on a small collection of papers related to prototypes in HCI.</em>
+Before jumping in to my reflection, the two seminal papers that inspired this post are:</p>
+
+<ul>
+  <li><a href="https://hci.stanford.edu/courses/cs247/2012/readings/WhatDoPrototypesPrototype.pdf"><strong>What do prototypes prototype</strong>?</a> (Houde &amp; Hill, 1997)</li>
+  <li><a href="https://dl.acm.org/doi/pdf/10.1145/223500.223514"><strong>Low vs. high-fidelity prototyping debate</strong></a> (Rudd, Stern, &amp; Isensee, 1996)</li>
+</ul>
+
+<h2 id="the-main-role-of-a-prototype-communication">The main role of a prototype: <em>communication</em></h2>
+<p>I’m surprised that these seminal readings didn’t focus on what prototypes do best: communication. Prototypes are powerful because they are a way to demonstrate or explore an idea and also because of their ability to convince, move, influence, inform, and inspire others. The piece on <em>what do prototypes prototype</em> was close to this point, but seemed to miss it. Humans, and our desire to connect and share knowledge and ideas with one another (and ourselves), are why prototypes exist. <strong>To prototype is to perform a highly communicative act</strong>.</p>
+
+<p>We prototype to convince others (and ourselves) of the viability of an idea. It’s a form of communication and testing at the same time. We prototype to demonstrate particular elements (like feel, role, or integration) that may be hard to do in text or a linguistic description alone. Language, as a tool for communication, doesn’t always help us demonstrate or convince others and it certainly doesn’t provide functional mechanisms and physical experiences in a way that can be used to test things. Language has limits. Prototypes fill these rhetorical gaps, playing a part in the exploration and expansion of ideas between people. They enable ideas to transition into a posteriori forms (often to be iterated into new priors).</p>
+
+<h2 id="prototypes-are-a-mirror-and-a-window-between-ideas-and-experiences">Prototypes are a mirror and a window between ideas and experiences</h2>
+<p>Prototypes, in this way, are reflexive ontologically. They build knowledge through a phenomenological approach: they invite the creator and all other participants to experience the spirit of an idea.</p>
+
+<p>We use prototypes, then, to reflect on an idea, reflect on ourselves, and reflect on the particulars of the artifact. We also use prototypes to facilitate the social evolution of an idea: they can also become like a canvas where multiple painters are invited to participate. Prototypes are like a mirror and a lens at the same time, allowing us to see windows into new worlds and also see pieces of ourselves, our own thoughts, and the interpretations of others more clearly in new ways.</p>
+
+<p>Prototypes are powerful because they demonstrate, but also because they <em>test</em> an idea. And in that sense, prototypes build validity early on often just because the vibes are good. Prototypes are perhaps the most professional example of how vibes really do matter: you can often tell whether an idea has legs or not when a prototype has been sufficiently thorough in demonstrating its idea.</p>
+
+<h2 id="fidelity-is-sorely-misunderstood-in-prototyping"><em>Fidelity</em> is sorely misunderstood in prototyping</h2>
+<p>And following the idea of “sufficiently thorough” in demonstrating is really the debate on what low versus high means in regards to fidelity. This is a long-standing conversation, apparently. The second reading attempted to structure the advantages and disadvantages of each back in the late 90s and I’d argue that the phrases “low fidelity” and “high fidelity” are still largely misunderstood even today.</p>
+
+<p>Of course, the most important thing to interrogate here isn’t actually low versus high (which most debates fixate on) but rather <em>what the heck is “fidelity”?</em></p>
+
+<p>Etymologically, “fidelity” is about faith, or faithfulness. We get “infidelity” from the same word, which means to cheat (often in the context of marriage). And I love this about prototypes. We don’t talk about low versus high resolution. Or low versus high quality. We talk about <em>fidelity</em>; and I’d argue that this is the perfect word for what we mean when we talk about prototypes.</p>
+
+<p>So what is faithfulness then? And what is low versus high faithfulness? I think that it becomes simpler to understand when we stop talking about prototypes and begin to talk about what they are meant to represent. And in this sense, this is a rather theological conversation: there is a sort of <em>spirit</em> to what a prototype is pursuing.</p>
+
+<p>Faithfulness then is about being faithful to an idea: having a strong sense of conviction and showing that through the prototype. A “low” fidelity prototype is perhaps only faithful to a small part of an idea (the part that matters most) or is perhaps unsure about the idea itself and is open to change.</p>
+
+<p>In a philosophical sense, there is a platonic order, an <em>essence</em>, that we want to demonstrate with a prototype. Prototypes are relatively <em>non-existential</em>. What I mean by that is that they typically begin with an idea and then are brought into existence to test and demonstrate that idea. With prototypes, essence precedes existence. (I wonder what Sarte and peers would have to say about prototypes?)</p>
+
+<h2 id="what-does-low-versus-high-fidelity-allow-us-to-do">What does low versus high fidelity allow us to do?</h2>
+<p>I was also somewhat disappointed with the “low versus high fidelity” reading because it also seemed to leave out some of the best parts of low fidelity prototypes. If fidelity is about faithfulness to an idea, then low faith is actually a space of liberating exploration. Low faith is about <em>permission</em> and <em>possibility</em>. Low faith is about unknowing, uncertainty, and openness to change. This means that low fidelity prototypes can be easier to collaborate on. If the creator and the prototype aren’t all that faithful to an idea, then the idea and the prototypes can be influenced, shaped, and refined.</p>
+
+<p>Higher fidelity ideas tend to invite critique about specifics. Lower fidelity prototypes tend to invite collaboration on higher-level concepts and intentions. Higher fidelity prototypes aren’t just more expensive, but also packed with more assumptions and opinions about the artifact’s particulars. They become more explanatory than exploratory. Low/high fidelity in this piece seemed to focus on cost and economics between the two, rather than particular qualities and strengths that actually define how low or high fidelity can or should be used.</p>
+
+<p>To me, “low fidelity” isn’t low fidelity because it is cheap and fast. Those are just strongly correlated traits with low fidelity. But instead, a low fidelity prototype is a changeable, malleable, raw idea. It is a piece of soft clay: it isn’t faithful to any forms yet.</p>
+
+<p>Higher fidelity prototypes exchange rawness for refined ideas and captured essence. They begin to demonstrate that they understand their purpose. For that reason, not due to time or material price, higher fidelity prototypes are more expensive. The wrong assumptions can be costly to reform and re-refine into new ideas. To make a higher fidelity prototype is a statement about confidence and belief; the vibes in a particular direction are what we want, so we need to really enhance those strengths. Higher fidelity isn’t just higher resolution, it is a higher state of belief in what the prototype is really a prototype of.</p>
+
+<h2 id="so-what">So what?</h2>
+<p>I suppose some people might be reading this and thinking that it really has nothing to do with their work at all. And that might be so. But I reckon that <em>anyone</em> who builds or creates <em>anything</em> might find that these pieces of my reflection could be useful:</p>
+<ul>
+  <li>Prototypes are powerful because they are a form of communication that can go beyond descriptions, language, and words.</li>
+  <li>Prototypes are about experiences that enable us to reflect on our ideas, ourselves, and what others think of our ideas.</li>
+  <li>Prototype fidelity is more about faithfulness than resolution or quality, which means that prototypes explore uncertainty and can be shaped and molded more easily in their earliest stages.</li>
+</ul>
+
+<p>Special thanks to <a href="https://www.thecoalalab.com/kenholstein">Ken Holstein</a> and his class, <em>Prototyping Algorithmic Experiences</em>, in the Spring term of 2024.</p>]]></content><author><name></name></author><category term="prototype" /><category term="epistemology" /><category term="ontology" /><summary type="html"><![CDATA[In this short reflection, I explore a rather unorthodox answer to "what is a prototype?" that involves rhetoric, reflexivity, and a touch of theology.]]></summary></entry><entry><title type="html">Introducing Data Navigator</title><link href="https://www.areenkh.com/blog/2023/09/introducing-data-navigator.html" rel="alternate" type="text/html" title="Introducing Data Navigator" /><published>2023-09-20T00:00:00+00:00</published><updated>2023-09-20T00:00:00+00:00</updated><id>https://www.areenkh.com/blog/2023/09/introducing-data-navigator</id><content type="html" xml:base="https://www.areenkh.com/blog/2023/09/introducing-data-navigator.html"><![CDATA[<h2 id="the-short-and-sweet-of-it">The short and sweet of it</h2>
+<p>We designed a system that developers can use to make their data visualizations navigable. This is important for supporting assistive technology input as well as the design of future data navigation interfaces.</p>
+
+<p>We have a lot of work left to do though: now that visualizations <em>can</em> work with different assistive technologies, it’s time to co-design, validate, and establish what it means to create good data navigation experiences.</p>
+
+<p>Here’s a 25-second video introduction to our project:</p>
+
+<div style="position:relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
+  <iframe style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/AZgsBh9-I7g?si=0WjMvBVFuSe_hLu_&amp;cc_lang_pref=en&amp;cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
+
+<h2 id="everything-for-our-project">Everything for our project</h2>
+<p>Want to get started? Here are all of the links related to Data Navigator:</p>
+
+<ul>
+  <li><a href="https://dig.cmu.edu/data-navigator/">Our demo application</a>: almost everything cool about Data Navigator in a single demo.</li>
+  <li><a href="https://www.frank.computer/data-navigator/">Our HTML paper for Data Navigator</a>: an in-depth, academic-focused walkthrough.</li>
+  <li><a href="https://github.com/cmudig/data-navigator">Our codebase on GitHub</a>: if you want to check out our codebase, typescript types, and follow for future developments.</li>
+  <li><a href="https://www.npmjs.com/package/data-navigator?activeTab=readme">Data Navigator on NPM</a>: if you’re ready to get started and try it out.</li>
+</ul>
+
+<h2 id="the-rundown-why-make-a-tool-like-data-navigator">The rundown: Why make a tool like Data Navigator?</h2>
+<p>We’ve made great strides in recent years for data visualization accessibility.</p>
+
+<p>In <a href="https://www.frank.computer/chartability/">Chartability</a>, my set of guidelines for accessible visualization, there are <a href="https://chartability.github.io/POUR-CAF/#thetests">50 different things worth checking</a> that can cause barriers for people with disabilities. And I’ve performed over 120,000 tests with Chartability to date. Every data visualization I’ve evaluated contained at least one failed Chartability test.</p>
+
+<p>So by and large, most all data visualizations out there are still inaccessible for people with disabilities. Practitioners use different toolkits for different reasons and every toolkit treats accessibility in different ways. The tools we use have a downstream effect on the quality of accessibility a visualization is capable of but some are much further behind than others on what they offer.</p>
+
+<p>I’d like to think that I have a good sense of what many different toolkits are capable of. I even wrote a chapter about this for the Urban Institute’s <a href="https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization">Centering Accessibility in Data Visualization</a> publication.</p>
+
+<p>With what I’ve seen, by far the <strong>hardest problem for practitioners to overcome is making their data visualizations accessible to assistive technologies</strong>, like screen readers. Beyond screen readers, many other assistive technologies are also largely unaddressed by visualization toolkits. People with motor and dexterity disabilities may not use a mouse (or pointer based) input, and instead use technologies that navigate or directly access content instead (like keyboard or voice based inputs).</p>
+
+<p>And these input devices have been part of computing for a long time. For example, below is a photo from 1960 of a wheelchair user who is leveraging a sip-and-puff device, which controls input and navigation using breathing patterns (<a href="https://commons.wikimedia.org/wiki/File:Patient_Operated_Selector_Mechanism.jpg">credit</a>).</p>
+
+<p><img src="https://www.frank.computer/images/sip-and-puff.png" alt="Photo of a person in a wheelchair operating an old computer using a desk-mounted sip and puff device called the POSSUM." /></p>
+
+<p>We’ve had great solutions that have come about in recent years that engage navigation: <a href="http://pure-oai.bham.ac.uk/ws/files/33124334/icchp16AA.pdf">Sorge’s work</a> on chemistry diagrams and <a href="https://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences/">Zong et al</a> and <a href="https://mitvis.github.io/olli/">Blanco et al</a>’s work on hierarchical approaches to data structure that work great with ordinary charts and graphs.</p>
+
+<p>But how do other data visualization practitioners implement these patterns in their own environments? These prior solutions all use JavaScript on the web. But many other charting libraries have to come up with a way to follow ideal practices.</p>
+
+<p>And how do data visualization practioners add navigation to visualizations that aren’t reasonably represented by existing approaches? For example, spatially navigating a map has no established, existing solution or best practice to follow yet maps are one of the most common forms of visualization.</p>
+
+<p>What is needed is a system design that can be implemented in other environments and is capable of representing new and unaddressed data visualization types.</p>
+
+<h3 id="contribution-1-a-simple-yet-powerful-system-design">Contribution 1: A simple, yet powerful system design</h3>
+<p>In Data Navigator, we do this: our first contribution is a <a href="https://www.frank.computer/data-navigator/#system-design">user interface system design based on a graph structure</a>. A graph is built on nodes and edges, which are a fundamentally different substrate than most UI materials (HTML for example is hierarchical, so it has <em>branches</em> and <em>leaves</em>).</p>
+
+<p><img src="https://www.frank.computer/images/nodes.png" alt="Two circular nodes connected by an edge." /></p>
+
+<p>Nodes and edges can construct any other data structure. You could, of course, build something like HTML’s branches and leaves using nodes and edges (a tree is a subtype of graph that has a few rules added). Nodes and edges can create lists, tables, hierarchies, networks, geospatial structures, and more.</p>
+
+<p><img src="https://www.frank.computer/images/structure.png" alt="Nodes and edges arranged to take the shape of tabular data, a list, a hierarchy, a network graph, and overlaid on a map." /></p>
+
+<p>And edges serve to create relationships between nodes, which is essential to building an infrastructure capable of rich navigation. Our edges can be created with navigation “rules” in plain, human language. These rules become the interface between assistive technologies and our node-edge structure.</p>
+
+<p>The coolest part about our substrate is twofold: it doesn’t really exist anywhere else and because of that, it has to be added to any existing system where it is used. This gives data visualization libraries and tools a single, simple advantage: they can continue rendering interactive visualizations in whatever way makes sense and leverage Data Navigator as a separate accessibility substrate (in the same way that many screen readers use and construct “accessibility trees” from most interfaces).</p>
+
+<p>The strongest advantage of our system from an implementation perspective is that systems can continue to experiment with and improve rendering speed and visual expressiveness. The accessible interface becomes a modular design space in tandem with this. This means that the design of Data Navigator can make PNGs, canvas-rendered elements, SVGs, video streams, spatial UIs, and 3D contexts accessible without needing to bake this into each of these systems. Data Navigator lets semantic rendering remain a separately composable system from visual rendering.</p>
+
+<p><img src="https://www.frank.computer/images/layered.png" alt="Diagram. A layer is shown on top of a bar chart. The layer is labeled with &quot;HTML Layer&quot; and the bar chart is labeled with &quot;ANY graphic.&quot;" /></p>
+
+<p>So our system design is intended like a recipe or pattern, which can be replicated in many different technical environments. Tableau might have different ways of implementing this pattern than Excel, python, R, PowerBI, or JavaScript and HTML. But we hope our system design can become a foundation for a shared space of work and ideation, similar to how visualization grammars carry design concepts across system implementations.</p>
+
+<h3 id="contribution-2-a-working-version-of-our-system-in-javascript">Contribution 2: A working version of our system in JavaScript</h3>
+<p>Our second major contribution beyond our system design is a technical implementation of it in JavaScript.</p>
+
+<p>I reckon this is the part most folks will be excited about: we built a <a href="https://github.com/cmudig/data-navigator">clean, simple, fast library</a> that can empower data visualizations that end up anywhere online to become more accessible. The library is intended to be integrated into existing web environments where data visualizations are shared, be it visualization libraries like Observable’s Plot or even online data science notebooks and ecosystems, like Jupyter.</p>
+
+<p>We chose to implement our system in JavaScript for the simple reason that we believe it will have the largest impact. While data visualizations may be <em>authored</em> in R, Python, Excel, Tableau, or many other offline environments, the vast majority of data work is <em>shared</em> in online contexts. Data science notebooks, social media, websites, and many email clients, all necessarily use web technology to create an environment for users to share and collaborate.</p>
+
+<p>And thanks to the incredible flexibility and power of web standards and interoperability provided by browser technologies, Data Navigator easily works with a wide variety of different assistive technologies.</p>
+
+<p>Because edges are relationships in our system design, navigation along them can be supported by virtually any input device that can be validated and processed by a web browser.</p>
+
+<p>Many data visualization types (maps especially) have significant research, standards, and guidelines gaps when it comes to accessible navigation. And many people who use assistive technologies other than screen readers are currently <em>entirely</em> unaddressed by data visualization and accessibility research literature.</p>
+
+<p>We want Data Navigator to become a practical tool that sparks a new generation of experimenting with design ideas. What interaction barriers are un- or under-studied? What do people with motor and dexterity disabilities who leverage navigation input technologies want and need from interactive data visualizations? And which chart types pose complex design challenges for navigation technologies? How can we imagine addressing things like dense scatterplots, maps, flow diagrams, network visualizations, and future rendering strategies (3D, AR, VR, and beyond)?</p>
+
+<h3 id="contribution-3-demos">Contribution 3: Demos</h3>
+<p>Our third and final contribution are our demonstrations of our system design and implementation: we built three case examples!</p>
+
+<p>Our first example shows off how we made a png image of a stacked bar chart navigable. In <a href="https://dig.cmu.edu/data-navigator/">our live demo</a> you can use keyboard-based input, desktop and mobile screen readers, voice commands, text input commands, and even hand gestures. Of course, this is just a sample of what is possible, but we hope it inspires much more work.</p>
+
+<p><a href="https://dig.cmu.edu/data-navigator/">
+    <img src="https://www.frank.computer/images/point.png" alt="Our demo application." />
+</a></p>
+
+<p><strong>I cannot stress enough: <a href="https://dig.cmu.edu/data-navigator/">try out the demo</a> to really get a sense of what Data Navigator can do!</strong></p>
+
+<p>Our <a href="https://www.frank.computer/data-navigator/#section:ecosystem">second case example</a> shows how (with just a small amount of code) Data Navigator can add an accessibility substrate to most data visualizations produced by a charting library. We demo this using vega-lite. If you are someone who builds charting libraries or toolkits, I recommend you check out the code we used and our discussion in the paper.</p>
+
+<p>Our <a href="https://www.frank.computer/data-navigator/#section:codesign">final case example</a> is where we showcase how Data Navigator (as a system) can guide and inspire co-design work that engages novel and unaddressed visualization types. I recommend you check out our paper if you’re a researcher or practitioner who wants to explore new horizons but is intimidated by the idea of co-designing with people with disabilities. We show that this work doesn’t have to be a monumental effort, but can actually be fun.</p>]]></content><author><name></name></author><category term="data navigator" /><category term="visualization" /><category term="accessiblity" /><summary type="html"><![CDATA[I'm happy to announce my latest project, Data Navigator! Making interactive data visualizations work with assistive technologies that navigate content is complex and difficult work. Data Navigator aims to make this easier.]]></summary></entry></feed>

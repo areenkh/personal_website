@@ -1,0 +1,9 @@
+/* TEAM */
+	Author/Theme: Areen
+	Twitter: @areen_khalaila
+
+/* SITE */
+	Language: English
+	Doctype: HTML5
+	IDE: VSCode
+	Software: Jekyll
