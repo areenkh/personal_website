@@ -9,11 +9,12 @@ class: projects
 
 <!-- {:.lead} -->
 
-You can find the code and other cool projects on my [GitHub](https://github.com/areenkh). 
+You can find the code and other cool projects on my [GitHub](https://github.com/areenkh).
 
 {% assign projtypes = site.data.projects | group_by:"type"  %}
 {% assign sorted_projtypes = projtypes %}
 {% for type in sorted_projtypes %}
+
 <!-- <h2 id="{{ type.name | replace: ' ', '-' | replace: '(', '' | replace: ')', '' }}">{{ type.name }}</h2> -->
 <div class="grid">
   <!-- do not uncomment ((start)){% for project in site.data.projects %}
@@ -24,4 +25,3 @@ You can find the code and other cool projects on my [GitHub](https://github.com/
   {% endfor %}
 </div> 
 {% endfor %}
-

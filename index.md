@@ -94,8 +94,9 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
 {% endfor %}
 </ul>
 </div>
+</div>
 
-<div class="journey-pics" markdown="1">
+<!-- <div class="journey-pics" markdown="1">
 <div class="journey" markdown="1">
 ## Highlights from My Journey
 <div class="photo-grid">
@@ -120,9 +121,9 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
     <div class="overlay">Coding Camp in 2021</div>
   </div>
   <!-- Add more photos as needed -->
-</div>
-</div>
-</div>
+<!-- </div>
+</div> --> 
+<!-- </div> -->
 
 <!-- <div class="travel" markdown="1">
 ## Latest Visits
@@ -142,4 +143,4 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
 
 </div> -->
 
-</div>
+<!-- </div> -->
