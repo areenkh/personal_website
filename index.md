@@ -105,7 +105,7 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
 
 <div class="journey-pics" markdown="1">
 <div class="journey" markdown="1">
-## Highlights from My Journey
+<!-- ## Highlights from My Journey -->
 
 <!-- <div class="photo-grid"> -->
   <!-- <div class="photo-container">
