@@ -20,6 +20,9 @@ sass:
   style: compressed
 
 collections:
+  posters:
+    output: true
+    permalink: /posters/:title/
   publications:
     output: false
   symposiums:

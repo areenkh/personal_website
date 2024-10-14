@@ -5,7 +5,7 @@ title: Publications
 class: pubs
 ---
 
-# Posters
+# Publications
 <!-- <div id="facets" class="hidden">
   <div class="facet" id="venue_tags">
     <strong>Venue</strong>
@@ -43,14 +43,36 @@ class: pubs
   <i class="fas fa-times-circle" aria-hidden="true"></i> Clear all filters. <span id="count_hidden">X</span> of <span id="count_total">X</span> publications are hidden by the filters.
 </p> -->
 
-{% assign pubyears = site.publications | group_by:"year"  %}
+
+
+{% assign pubyears = site.publications | group_by:"year" %}
 {% assign sorted_pubyears = pubyears | reverse %}
 {% for year in sorted_pubyears %}
 ## {{ year.name }}
-{:#y{{ year.name }} .year}
-{% for pub in year.items %}
-  {% include publication.html pub=pub %}
-{% endfor %}
+  
+  <!-- Papers Section -->
+### Papers
+  {:#y{{ year.name }} .year}
+  {% assign papers = year.items | where: "type", "Paper" %}
+  {% if papers.size > 0 %}
+    {% for pub in papers %}
+      {% include publication.html pub=pub %}
+    {% endfor %}
+  {% else %}
+    <p>No papers published in {{ year.name }}.</p>
+  {% endif %}
+  
+  <!-- Posters Section -->
+### Posters
+  {% assign posters = year.items | where: "type", "Poster" %}
+  {% if posters.size > 0 %}
+    {% for pub in posters %}
+      {% include publication.html pub=pub %}
+    {% endfor %}
+  {% else %}
+    <p>No posters presented in {{ year.name }}.</p>
+  {% endif %}
+  
 {% endfor %}
 
 ### Research Symposiums 
