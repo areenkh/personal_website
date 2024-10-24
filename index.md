@@ -35,7 +35,7 @@ in Arabic means lion's den.</p>
 </div>
 </div>
 
-<!-- ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
+## Featured Projects
 
 <div class="featured-projects">
   {% assign sorted_projects = site.data.projects | sort: 'highlight' %}
@@ -45,10 +45,10 @@ in Arabic means lion's den.</p>
     {% endif %}
   {% endfor %}
 </div>
-<a href="{{ "/projects/" | relative_url }}" class="button">
+<a href="https://github.com/areenkh" class="button">
   <i class="fas fa-chevron-circle-right"></i>
   Show More Projects
-</a> -->
+</a>
 
 <!-- ## Featured <a href="{{ "/publications/" | relative_url }}">Publications</a>
 
@@ -95,35 +95,32 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
 </ul>
 </div>
 </div>
+<div class="journey-pics" markdown="1">
+## Highlights from My Journey 
+  <div class="photo-grid">
+    <div class="photo-container">
+      <img src="{{ '/images/journey/IMG_4147.PNG' | relative_url }}" alt="Poster Presentation">
+      <div class="overlay">Final Poster Presentation at CMU HCII REU 2024</div>
+    </div> 
+    <div class="photo-container">
+      <img src="{{ '/images/journey/brandies_urcc.png' | relative_url }}" alt="Conference Talk">
+      <div class="overlay">Brandeis URCC Research Symposium 2024</div>
+    </div>
+    <div class="photo-container">
+      <img src="{{ '/images/journey/IMG_0974.JPG' | relative_url }}" alt="Graduation Ceremony">
+      <div class="overlay">High School Graduation</div>
+    </div>
+    <div class="photo-container">
+      <img src="{{ '/images/journey/1718582117115.jpeg' | relative_url }}" alt="CMU HCII REU First Day">
+      <div class="overlay">CMU HCII REU Orientation</div>
+    </div>
+    <div class="photo-container">
+      <img src="{{ '/images/journey/IMG_1248.JPG' | relative_url }}" alt="Coding Camp in 2021">
+      <div class="overlay">Coding Camp in 2021</div>
+    </div>
+  </div>
+</div>
 
-<!-- <div class="journey-pics" markdown="1">
-<div class="journey" markdown="1">
-## Highlights from My Journey
-<div class="photo-grid">
-  <div class="photo-container">
-    <img src="{{ '/images/journey/IMG_4147.PNG' | relative_url }}" alt="Poster Presentation">
-    <div class="overlay">Final Poster Presentation at CMU HCII REU 2024</div>
-  </div> 
-  <div class="photo-container">
-    <img src="{{ '/images/journey/brandies_urcc.png' | relative_url }}" alt="Conference Talk">
-    <div class="overlay">Brandeis URCC Research Symposium 2024</div>
-  </div>
-  <div class="photo-container">
-    <img src="{{ '/images/journey/IMG_0974.JPG' | relative_url }}" alt="Graduation Ceremony">
-    <div class="overlay">High School Graduation</div>
-  </div>
-   <div class="photo-container">
-    <img src="{{ '/images/journey/1718582117115.jpeg' | relative_url }}" alt="CMU HCII REU First Day">
-    <div class="overlay">CMU HCII REU Orientation</div>
-  </div>
-  <div class="photo-container">
-    <img src="{{ '/images/journey/IMG_1248.JPG' | relative_url }}" alt="Coding Camp in 2021">
-    <div class="overlay">Coding Camp in 2021</div>
-  </div>
-  <!-- Add more photos as needed -->
-<!-- </div>
-</div> --> 
-<!-- </div> -->
 
 <!-- <div class="travel" markdown="1">
 ## Latest Visits
