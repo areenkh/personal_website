@@ -20,15 +20,26 @@
   description: "StreetScape promotes inclusive education by allowing sighted and visually-impaired children to utilize tactile learning tools and foster spatial awareness through interactive, accessible street puzzles."
   highlight: 2
 
+- title: Virtual Date Dinner
+  type: ""
+  url: areenkh.github.io/virtual-dinner-date/
+  code: https://github.com/areenkh/virtual-dinner-date
+  # demo: https://observablehq.com/@frankelavsky/chart-component-boilerplate
+  image: virtual-date-night.png
+  imageDescription: "Visa Chart Component example image and website."
+  description: "Designed a Virtual Dinner Date web application using React and CSS3 for a responsive, interactive user experience. Features include a dynamic date scheduling interface with react-datepicker."
+  highlight: 3
+
 - title: Brandeis Sport Complex
   type: ""
   # url: https://developer.visa.com/pages/chart-components
   code: https://github.com/areenkh/Brandeis-Sport-Complex
   # demo: https://observablehq.com/@frankelavsky/chart-component-boilerplate
   image: brandeis-sport-complex.png
-  imageDescription: "Visa Chart Component example image and website."
+  imageDescription: "Confirmation Message of The Virtual Date Night"
   description: "Crafted an interactive web application for the Brandeis Sports Complex, facilitating seamless member interaction through event postings, and dynamic API integration for event update"
-  highlight: 3
+  highlight: 4
+
 
 # - title: Modeling Career Hot Streaks
 #   type: "Older (No Accessibility Guaranteed)"
