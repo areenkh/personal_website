@@ -40,15 +40,15 @@
   description: "Crafted an interactive web application for the Brandeis Sports Complex, facilitating seamless member interaction through event postings, and dynamic API integration for event update."
   highlight: 4
 
-  # - title: 3D Printing Portfolio
-  # type: ""
-  # url: https://areenkh.github.io/3d-printing-portfolio/
-  # code: https://github.com/areenkh/3d-printing-portfolio
-  # # demo: https://observablehq.com/@frankelavsky/chart-component-boilerplate
-  # image: 3dprinting.png
-  # imageDescription: "3D Printing Portfolio"
-  # description: "Documented a series of 3D printing projects, from assembling advanced printers and prosthetic hands to designing educational games and personalized items."
-  # highlight: 5
+- title: 3D Printing Portfolio
+  type: ""
+  url: https://areenkh.github.io/3d-printing-portfolio/
+  code: https://github.com/areenkh/3d-printing-portfolio
+  # demo: https://observablehq.com/@frankelavsky/chart-component-boilerplate
+  image: 3dprinting.png
+  imageDescription: "3D Printing Portfolio"
+  description: "Documented a series of 3D printing projects, from assembling advanced printers and prosthetic hands to designing educational games and personalized items."
+  highlight: 5
 
 
 # - title: Modeling Career Hot Streaks
