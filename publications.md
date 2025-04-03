@@ -70,8 +70,8 @@ class: pubs
       {% include publication.html pub=pub %}
     {% endfor %}
   <!-- {% else %}
-    <p>No posters presented in {{ year.name }}.</p>
-  {% endif %} -->
+    <p>No posters presented in {{ year.name }}.</p> -->
+  {% endif %}
   
 {% endfor %}
 
