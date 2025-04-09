@@ -29,7 +29,7 @@ class: pubs
   </div>
 
 </div> -->
-
+<!-- 
 <div class="p1 db">
   <input id="ft-search" type="search" placeholder="Search papers..." />
 </div>
@@ -41,7 +41,7 @@ class: pubs
 
 <p id="clear-filters" class="hidden">
   <i class="fas fa-times-circle" aria-hidden="true"></i> Clear all filters. <span id="count_hidden">X</span> of <span id="count_total">X</span> publications are hidden by the filters.
-</p>
+</p> -->
 
 
 
@@ -90,5 +90,5 @@ class: pubs
 <!-- <script src="https://cdn.jsdelivr.net/npm/itemsjs@1.0.40/dist/itemsjs.min.js"></script> -->
 <script>
   {% include itemsjs.min.js %}
-  {% include pubfilter.js %}
+  // {% include pubfilter.js %}
 </script>
