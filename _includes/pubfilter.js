@@ -224,4 +224,4 @@
 
   document.getElementById("facets").classList.remove("hidden");
   document.getElementById("only-highlight").classList.remove("hidden");
-});
+})();
