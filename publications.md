@@ -63,13 +63,15 @@ class: pubs
   {% endif %}
   
   <!-- Posters Section -->
-### Posters
   {% assign posters = year.items | where: "type", "Poster" %}
   {% if posters.size > 0 %}
+### Posters
     {% for pub in posters %}
       {% include publication.html pub=pub %}
     {% endfor %}
-  
+
+  {% endif %}
+
 {% endfor %}
 
 ### Research Symposiums 

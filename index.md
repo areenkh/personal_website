@@ -10,9 +10,11 @@ class: home
 <div class="intro" markdown="1">
 I research, design, and engineer solutions at the intersection of accessibility and technology.
 
-I am currently pursuing a Bachelor of Science in Computer Science, with a minor in Physics, at [Brandeis University](https://www.brandeis.edu/), where I am a member of the Phi Beta Kappa honor society. My senior honors thesis, advised by Prof. Dylan Cashman, explores visual perception studies with tactile representations of data for visually impaired users.
+I just completed a Bachelor of Science in Computer Science, with a minor in Physics, at [Brandeis University](https://www.brandeis.edu/) with highest honors. I was advised by Prof. [Dylan Cashman](https://dylancashman.github.io) as part of the BraVa lab . My senior honors thesis, titled "From Touch to Insight: Exploring Tactile Strategies and Design Guidelines for Non-Visual Graphical Perception," explored visual perception studies with tactile representations of data for visually impaired users. Throughout my time at Brandies, I have received several awards, which you can find in my [CV](https://areenkh.com/cv/).
 
-I am a Research Intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I have conducted research under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/) and Franklin Mingzhi Li, using AI to enhance cooking experiences for visually impaired individuals.
+I was formerly a research intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I conducted research under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/) and Franklin Mingzhi Li, using form factor cameras to enhance cooking experiences for visually impaired individuals.
+
+Outside of research, I was a teaching assistant (TA) for several Computer Science courses, ranging from introductory classes to more advances ones, every semester since freshamn year. I also led both small and big classes as a head TA. I served as a mentor for first-gen students, offering them academic support.
 
 I am always open to new opportunities and collaborations. Feel free to reach out to me via email at first name kh at brandeis dot edu or on [LinkedIn](https://www.linkedin.com/in/areenkh). Check out my [GitHub](https://github.com/areenkh).
 
@@ -88,15 +90,21 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
 <div class="news-travel" markdown="1">
 <div class="news" markdown="1">
 ## Latest News
-<ul>
+<!-- <ul>
 {% for news in site.data.news limit:10 %}
   <li>{% include news.html news=news %}</li>
 {% endfor %}
-</ul>
+</ul> -->
+<ul id="news-list">
+    {% for news in site.data.news %}
+      <li class="news-item{% if forloop.index > 5 %} hidden{% endif %}">{% include news.html news=news %}</li>
+    {% endfor %}
+  </ul>
+  <button id="show-more-btn" onclick="showMoreNews()">Show More</button>
 </div>
 </div>
 <div class="journey-pics" markdown="1">
-## Highlights from My Journey 
+## Pieces of My Life
   <div class="photo-grid">
     <div class="photo-container">
       <img src="{{ '/images/journey/IMG_4147.PNG' | relative_url }}" alt="Poster Presentation">
@@ -118,8 +126,28 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
       <img src="{{ '/images/journey/IMG_1248.JPG' | relative_url }}" alt="Coding Camp in 2021">
       <div class="overlay">Coding Camp in 2021</div>
     </div>
+    <div class="photo-container">
+      <img src="{{ '/images/journey/cs-graduation-ceremony.JPG' | relative_url }}" alt="Me on the stage receiving an award at the graduation ceremony">
+      <div class="overlay">Computer Science Graduation Ceremony
+      </div>
+    </div>
+    <div class="photo-container">
+      <img src="{{ '/images/journey/graduation-pic.JPEG' | relative_url }}" alt="A picture of me in my graduation dress with my graduation cap on">
+      <div class="overlay">Graduation Photoshoot
+      </div>
+    </div>
+        <div class="photo-container">
+      <img src="{{ '/images/journey/StreetScape.png' | relative_url }}" alt="My teammates and I holding a check award for our project">
+      <div class="overlay">Asper Award for Global Entrepreneurship
+      </div>
+    </div>
   </div>
 </div>
+
+<!-- <a href="{{ "/journey/" | relative_url }}" class="button">
+  <i class="fas fa-chevron-circle-right"></i>
+  Show All Images
+</a>  -->
 
 
 <!-- <div class="travel" markdown="1">

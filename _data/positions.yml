@@ -1,20 +1,20 @@
-- title: Student Researcher
-  years: 2024-present
+- title: Research Intern
+  years: 2024-2024
   company: Carnegie Mellon University
   location: Pittsburgh, PA
   short_desc: "HCII, [Axle Lab](https://axle-lab.com/)"
   mentors:
     - Patrick Carrington
-- title: Student Researcher
-  years: 2023-2024
+- title: Research Intern
+  years: 2023-2025
   company: Brandeis University
   location: Waltham, MA
   skills: 
     - Data Visualization
     - Accessibility
-  short_desc: Visual Analytics Lab
-- title: Website Editor
-  years: 2023-present
+  short_desc: Brandeis Visual Analytics Lab
+- title: Front-end developer
+  years: 2023-2024
   company: Crown Center for Middle East Studies
   location: Waltham, MA
   skills:

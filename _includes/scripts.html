@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   // function trim(str) {
   //   return str.replace(/^\s+|\s+$/g, '');
   // }
@@ -9,4 +9,11 @@
   //   var title = h.innerHTML;
   //   h.innerHTML = '<a href="#' + name + '" class="anchor"><i class="fas fa-hashtag"></i></a>' + trim(title);
   // }
+</script> -->
+<script>
+function showMoreNews() {
+  const hiddenItems = document.querySelectorAll('.news-item.hidden');
+  hiddenItems.forEach(item => item.classList.remove('hidden'));
+  document.getElementById('show-more-btn').style.display = 'none';
+}
 </script>
