@@ -14,7 +14,7 @@ I just completed a Bachelor of Science in Computer Science, with a minor in Phys
 
 I was formerly a research intern at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I conducted research under the guidance of [Patrick Carrington](https://www.patrickcarrington.com/) and Franklin Mingzhi Li, using form factor cameras to enhance cooking experiences for visually impaired individuals.
 
-Outside of research, I was a teaching assistant (TA) for several Computer Science courses, ranging from introductory classes to more advances ones, every semester since freshamn year. I also led both small and big classes as a head TA. I served as a mentor for first-gen students, offering them academic support.
+Outside of research, I was a teaching assistant (TA) for different Computer Science courses, ranging from introductory classes to more advances ones, every semester since freshamn year. I also led both small and big classes as a head TA. I served as a mentor for first-gen students, offering them academic support.
 
 I am always open to new opportunities and collaborations. Feel free to reach out to me via email at first name kh at brandeis dot edu or on [LinkedIn](https://www.linkedin.com/in/areenkh). Check out my [GitHub](https://github.com/areenkh).
 
