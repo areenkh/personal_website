@@ -100,7 +100,7 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
       <li class="news-item{% if forloop.index > 5 %} hidden{% endif %}">{% include news.html news=news %}</li>
     {% endfor %}
   </ul>
-  <button id="show-more-btn" onclick="showMoreNews()">Show More</button>
+  <!-- <button id="show-more-btn" onclick="showMoreNews()">Show More</button> -->
 </div>
 </div>
 <div class="journey-pics" markdown="1">
