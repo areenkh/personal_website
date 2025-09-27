@@ -51,8 +51,9 @@ class: pubs
 ## {{ year.name }}
   
   <!-- Papers Section -->
-### Papers
-  {:#y{{ year.name }} .year}
+<!-- ### Papers
+  {:#y{{ year.name }} .year} -->
+  <h3 id="y{{ year.name }}" class="year">Papers</h3>
   {% assign papers = year.items | where: "type", "Paper" %}
   {% assign papers_sorted = papers | sort: "pub_date" | reverse %}
   {% if papers_sorted.size > 0 %}
