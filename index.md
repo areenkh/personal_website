@@ -122,10 +122,10 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
       <img src="{{ '/images/journey/brandies_urcc.png' | relative_url }}" alt="Conference Talk">
       <div class="overlay">Brandeis URCC Research Symposium 2024</div>
     </div>
-    <div class="photo-container">
+    <!-- <div class="photo-container">
       <img src="{{ '/images/journey/IMG_0974.JPG' | relative_url }}" alt="Graduation Ceremony">
       <div class="overlay">High School Graduation</div>
-    </div>
+    </div> -->
     <div class="photo-container">
       <img src="{{ '/images/journey/1718582117115.jpeg' | relative_url }}" alt="CMU HCII REU First Day">
       <div class="overlay">CMU HCII REU Orientation</div>
