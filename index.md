@@ -102,17 +102,13 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
 <div class="news-travel" markdown="1">
 <div class="news" markdown="1">
 ## Latest News
-<!-- <ul>
-{% for news in site.data.news limit:10 %}
-  <li>{% include news.html news=news %}</li>
-{% endfor %}
-</ul> -->
-<ul id="news-list">
-    {% for news in site.data.news %}
-      <li class="news-item{% if forloop.index > 5 %} hidden{% endif %}">{% include news.html news=news %}</li>
-    {% endfor %}
-  </ul>
-  <!-- <button id="show-more-btn" onclick="showMoreNews()">Show More</button> -->
+<div class="news-scroll" role="region" aria-labelledby="latest-news-heading" tabindex="0">
+  <ul id="news-list" class="news-list">
+      {% for news in site.data.news %}
+      <li class="news-item">{% include news.html news=news %}</li>
+      {% endfor %}
+    </ul>
+</div>
 </div>
 </div>
 <div class="journey-pics" markdown="1">
