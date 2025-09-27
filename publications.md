@@ -63,16 +63,7 @@ class: pubs
     <p>No papers published in {{ year.name }}.</p>
   {% endif %}
   
-  <!-- Posters Section -->
-  {% assign posters = year.items | where: "type", "Poster" %}
-  {% assign posters_sorted = posters | sort: "pub_date" | reverse %}
-  {% if posters_sorted.size > 0 %}
-### Posters
-    {% for pub in posters_sorted %}
-      {% include publication.html pub=pub %}
-    {% endfor %}
 
-  {% endif %}
 
 {% endfor %}
 
