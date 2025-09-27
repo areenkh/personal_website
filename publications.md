@@ -51,9 +51,8 @@ class: pubs
 ## {{ year.name }}
   
   <!-- Papers Section -->
-<!-- ### Papers
-  {:#y{{ year.name }} .year} -->
-  <h3 id="y{{ year.name }}" class="year">Papers</h3>
+### Papers
+  {:#y{{ year.name }} .year}
   {% assign papers = year.items | where: "type", "Paper" %}
   {% assign papers_sorted = papers | sort: "pub_date" | reverse %}
   {% if papers_sorted.size > 0 %}
@@ -92,5 +91,5 @@ class: pubs
 <!-- <script src="https://cdn.jsdelivr.net/npm/itemsjs@1.0.40/dist/itemsjs.min.js"></script> -->
 <script>
   {% include itemsjs.min.js %}
-  // {% include pubfilter.js %}
+  {% include pubfilter.js %}
 </script>
