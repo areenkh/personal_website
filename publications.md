@@ -54,8 +54,9 @@ class: pubs
 ### Papers
   {:#y{{ year.name }} .year}
   {% assign papers = year.items | where: "type", "Paper" %}
-  {% if papers.size > 0 %}
-    {% for pub in papers %}
+  {% assign papers_sorted = papers | sort: "pub_date" | reverse %}
+  {% if papers_sorted.size > 0 %}
+    {% for pub in papers_sorted %}
       {% include publication.html pub=pub %}
     {% endfor %}
   {% else %}
@@ -64,9 +65,10 @@ class: pubs
   
   <!-- Posters Section -->
   {% assign posters = year.items | where: "type", "Poster" %}
-  {% if posters.size > 0 %}
+  {% assign posters_sorted = posters | sort: "pub_date" | reverse %}
+  {% if posters_sorted.size > 0 %}
 ### Posters
-    {% for pub in posters %}
+    {% for pub in posters_sorted %}
       {% include publication.html pub=pub %}
     {% endfor %}
 
