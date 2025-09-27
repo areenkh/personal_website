@@ -8,6 +8,18 @@ class: home
 
 <div class="columns" markdown="1">
 <div class="intro" markdown="1">
+I design and study accessible systems for non-visual data interaction. My research sits at the intersection of human–computer interaction, data visualization, and accessibility, with a particular focus on tactile graphics and multisensory interfaces for blind and low-vision (BLV) users. I aim to develop frameworks, design guidelines, and interactive tools that expand how people with disabilities can perceive, create, and engage with data.
+
+I am currently a PhD student in Computer Science at Tulane University. Previously, I completed my BSc in Computer Science (summa cum laude) at Brandeis University, where I received the full-ride Malkin Scholarship and the departmental Jacques Cohen Award for outstanding research. During my undergraduate studies, I was a member of the [BraVa lab](https://brandeis-visual-analytics.github.io/brava.github.io/) and mentored by Dr. [Patrick Carrington](https://patrickcarrington.com) and [Frankling Mingzhi Li](https://franklin-li.com) at [Human-Computer Interaction Institute](https://hcii.cmu.edu) at Carnegie Mellon University. 
+
+My work has introduced new insights into tactile chart perception, design implications for accessible graphics, and interactive systems for inclusive learning. This research has been recognized with a Best Paper Award at IEEE VIS 2025 and published across premier venues in visualization and accessibility, including IEEE VIS, CHI, and ASSETS.
+
+Through my work, I aim to reimagine visualization beyond sighted norms, designing systems that allow users with disabilities not only to access data, but to explore, interpret, and author it on their own terms. 
+Feel free to contact me and check my [CV](https://areenkh.com/cv/) for more details.
+
+<!-- 
+
+
 I research, design, and engineer solutions at the intersection of accessibility and technology.
 
 I just completed a Bachelor of Science in Computer Science, with a minor in Physics, at [Brandeis University](https://www.brandeis.edu/) with highest honors. I was advised by Prof. [Dylan Cashman](https://dylancashman.github.io) as part of the BraVa lab . My senior honors thesis, titled "From Touch to Insight: Exploring Tactile Strategies and Design Guidelines for Non-Visual Graphical Perception," explored visual perception studies with tactile representations of data for visually impaired users. Throughout my time at Brandies, I have received several awards, which you can find in my [CV](https://areenkh.com/cv/).
@@ -16,7 +28,7 @@ I was formerly a research intern at the [Human-Computer Interaction Institute](h
 
 Outside of research, I was a teaching assistant (TA) for different Computer Science courses, ranging from introductory classes to more advances ones, every semester since freshamn year. I also led both small and big classes as a head TA. I served as a mentor for first-gen students, offering them academic support.
 
-I am always open to new opportunities and collaborations. Feel free to reach out to me via email at first name kh at brandeis dot edu or on [LinkedIn](https://www.linkedin.com/in/areenkh). Check out my [GitHub](https://github.com/areenkh).
+I am always open to new opportunities and collaborations. Feel free to reach out to me via email at first name kh at brandeis dot edu or on [LinkedIn](https://www.linkedin.com/in/areenkh). Check out my [GitHub](https://github.com/areenkh). -->
 
 </div>
 
