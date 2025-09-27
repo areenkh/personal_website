@@ -1,7 +1,15 @@
+- name: Tulane Graduate Studies Student Association Travel Fund
+  years: 2025
+  sponsor: Tulane University
+  description:  
 - name: The Jacques Cohen Award
   years: 2024
   sponsor: Brandeis University
   description: This award recognizes outstanding achievement in a research capacity. Recipients have made exceptional contributions on a research project, and are characterized not only by excelling in difficult courses, but challenging the material and exploring the boundaries of the topics.
+- name: Asper Award for Global Entrepreneurship
+  years: 2025
+  sponsor: Brandeis University
+  description: The Asper Award for Global Entrepreneurship is given to a person that best exemplifies the Asper Center's values of entrepreneurial spirit and independent thinking.
 - name: Senior Honors Thesis Award - Provost’s Undergraduate Research Fund
   years: 2024
   sponsor: Brandeis University

@@ -214,23 +214,23 @@ title: CV
 
 
 <!-- <h2>Relevant Coursework <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2> -->
-<h2>Relevant Coursework </h2>
+<!-- <h2>Relevant Coursework </h2> -->
 
 
-{% assign talktitles = site.data.talks | group_by:"title" %}
+<!-- {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
 <article>
   <h3 class="cv-talk-title">{{ title.name }}</h3>
-  <!-- {% assign sorted_talks = title.items | sort: 'date' | reverse %}
+  {% assign sorted_talks = title.items | sort: 'date' | reverse %}
   {% for talk in sorted_talks %}
     <div class="date-container">
       <time datetime="{{ talk.date }}">{{ talk.date | date: "%b %Y" }}</time>
       <span class="fill">{{ talk.location }}{% if talk.city %}, <small class="muted">{{ talk.city }}</small>{% endif %}</span>
 
     </div>
-  {% endfor %} -->
+  {% endfor %} 
 </article>
-{% endfor %}
+{% endfor %} -->
 
 
 <!-- <h2>Teaching</h2>

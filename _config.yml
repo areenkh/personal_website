@@ -1,7 +1,7 @@
 # Site settings
 title: Areen Khalaila
 email: akhalaila@tulane.edu
-address: New Orleans, La
+address: New Orleans, LA
 description: > # this means to ignore newlines until "baseurl:"
   PhD student at Tulane University.
 # baseurl: "/personal_website"  # the subpath of your site, e.g., /blog
