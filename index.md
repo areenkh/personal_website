@@ -115,6 +115,10 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
 ## Pieces of My Life
   <div class="photo-grid">
     <div class="photo-container">
+      <img src="{{ '/images/journey/vis2026.jpeg' | relative_url }}" alt="CMU HCII REU First Day">
+      <div class="overlay">Awarded best paper at VIS 2026</div>
+    </div>
+    <div class="photo-container">
       <img src="{{ '/images/journey/IMG_4147.PNG' | relative_url }}" alt="Poster Presentation">
       <div class="overlay">Final Poster Presentation at CMU HCII REU 2024</div>
     </div> 
