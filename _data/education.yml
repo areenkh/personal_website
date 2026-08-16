@@ -1,8 +1,11 @@
-- university: Tulane University
-  years: 2025-Present
+- university: University of Illinois, Chicago
+  years: 2026-Present
   degree: PhD in Computer Science
-  location: New Orleans, LA
+  location: Chicago, IL
   description:
+    - Advised by **Khairi Reda**.
+    - Research Interests - HCI, Data Visualization, Accessibility
+
 
 
 - university: Brandeis University

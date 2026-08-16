@@ -1,9 +1,9 @@
 # Site settings
 title: Areen Khalaila
-email: akhalaila@tulane.edu
-address: New Orleans, LA
+email: akhal53@uic.edu
+address: Chicago, IL
 description: > # this means to ignore newlines until "baseurl:"
-  PhD student at Tulane University.
+  PhD student at University of Illinois, Chicago.
 # baseurl: "/personal_website"  # the subpath of your site, e.g., /blog
 # url: "https://areenkh.github.io/personal_website"  # the base hostname & protocol for your site
 # production_url: "https://areenkh.github.io/personal_website"
