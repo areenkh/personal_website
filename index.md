@@ -12,7 +12,7 @@ I design and study accessible systems for non-visual data interaction. My resear
 
 I am currently a PhD student in Computer Science at University of Illinois, Chicgao. Previously, I completed my BSc in Computer Science (summa cum laude) at Brandeis University, where I received the full-ride Malkin Scholarship and the departmental Jacques Cohen Award for outstanding research. During my undergraduate studies, I was a member of the [BraVa lab](https://brandeis-visual-analytics.github.io/brava.github.io/), mentored by Dr. [Dylan Cashman](https://dylancashman.github.io) and the Summer Research Experience for Undergraduates (REU) at the [Human-Computer Interaction Institute](https://hcii.cmu.edu) at Carnegie Mellon University, mentored by [Patrick Carrington](https://patrickcarrington.com). 
 
-My work has introduced new insights into tactile chart perception, design implications for accessible graphics, and interactive systems for inclusive learning. My work has been recognized with a Best Paper Award at IEEE VIS 2025 and published across premier venues in visualization and accessibility, including IEEE VIS, CHI, and ASSETS.
+My work has been recognized with a Best Paper Award at IEEE VIS 2025 and published across premier venues in visualization and accessibility, including IEEE VIS, CHI, and ASSETS.
 
 Through my work, I aim to reimagine visualization beyond sighted norms, designing systems that allow users with disabilities not only to access data, but to explore, interpret, and author it on their own terms. 
 Feel free to contact me and check my [CV](https://areenkh.com/cv/) for more details.
@@ -49,7 +49,7 @@ in Arabic means lion's den.</p>
 </div>
 </div>
 
-## Featured Projects
+<!-- ## Featured Projects
 
 <div class="featured-projects">
   {% assign sorted_projects = site.data.projects | sort: 'highlight' %}
@@ -62,7 +62,7 @@ in Arabic means lion's den.</p>
 <a href="https://github.com/areenkh" class="button">
   <i class="fas fa-chevron-circle-right"></i>
   Show More Projects
-</a>
+</a> -->
 
 <!-- ## Featured <a href="{{ "/publications/" | relative_url }}">Publications</a>
 
@@ -119,6 +119,11 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
       <div class="overlay">Awarded best paper at VIS 2026</div>
     </div>
     <div class="photo-container">
+      <img src="{{ '/images/journey/StreetScape.png' | relative_url }}" alt="My teammates and I holding a check award for our project">
+      <div class="overlay">Asper Award for Global Entrepreneurship
+      </div>
+    </div>
+    <div class="photo-container">
       <img src="{{ '/images/journey/IMG_4147.PNG' | relative_url }}" alt="Poster Presentation">
       <div class="overlay">Final Poster Presentation at CMU HCII REU 2024</div>
     </div> 
@@ -135,22 +140,8 @@ At the Brandeis Visual Analytics Lab, under the guidance of Professor Dylan Cash
       <div class="overlay">CMU HCII REU Orientation</div>
     </div>
     <div class="photo-container">
-      <img src="{{ '/images/journey/IMG_1248.JPG' | relative_url }}" alt="Coding Camp in 2021">
-      <div class="overlay">Coding Camp in 2021</div>
-    </div>
-    <div class="photo-container">
-      <img src="{{ '/images/journey/cs-graduation-ceremony.JPG' | relative_url }}" alt="Me on the stage receiving an award at the graduation ceremony">
-      <div class="overlay">Computer Science Graduation Ceremony
-      </div>
-    </div>
-    <div class="photo-container">
       <img src="{{ '/images/journey/graduation-pic.JPEG' | relative_url }}" alt="A picture of me in my graduation dress with my graduation cap on">
       <div class="overlay">Graduation Photoshoot
-      </div>
-    </div>
-        <div class="photo-container">
-      <img src="{{ '/images/journey/StreetScape.png' | relative_url }}" alt="My teammates and I holding a check award for our project">
-      <div class="overlay">Asper Award for Global Entrepreneurship
       </div>
     </div>
   </div>
