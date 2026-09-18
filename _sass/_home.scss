@@ -27,9 +27,14 @@
       text-align: center;
 
       picture, img {
-        width: 220px;
-        height: 220px;
-        border-radius: 6px;
+        // width: 220px;
+        // height: 220px;
+        // border-radius: 6px;
+        width: 100%;
+        height: auto;
+        aspect-ratio: auto;
+        object-fit: contain;
+        border-radius: 10px;
       }
 
       ul {
