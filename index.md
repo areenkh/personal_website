@@ -34,10 +34,10 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='images/areenkh.png' type='image/png' />
+  <source srcset='images/professional-pic.jpg' type='image/jpg' />
   <img
-    src='images/professional-pic.png'
-    alt="this is me smiling, wearing a white top and a black blazer on top">  
+    src='images/professional-pic.jpg'
+    alt="this is me smiling, wearing a beige vest and behind me is a grey background">  
 </picture>
 
 {:.no-list}
