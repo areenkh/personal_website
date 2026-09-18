@@ -30,10 +30,11 @@
         // width: 220px;
         // height: 220px;
         // border-radius: 6px;
-        width: 100%;
+        width: 220px;
+        max-width: 100%;
         height: auto;
-        aspect-ratio: auto;
-        object-fit: contain;
+        display: block;
+        margin: 0 auto;
         border-radius: 10px;
       }
 
