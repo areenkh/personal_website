@@ -26,15 +26,23 @@
       font-size: 0.9em;
       text-align: center;
 
-      picture, img {
-        width: 220px;
-        height: 220px;
-        object-fit: cover;
-        object-position: top;
-        display: block;
-        margin: 0 auto;
-        border-radius: 10px;
-      }
+    picture {
+      display: block;
+      width: 220px;
+      height: 220px;
+      overflow: hidden;
+      border-radius: 10px;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top;
+      transform: scale(1.1);
+      transform-origin: top center;
+      display: block;
+    }
 
       ul {
         margin-top: 16px;
