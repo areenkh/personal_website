@@ -1,6 +1,7 @@
 # Site settings
 title: Areen Khalaila
 email: akhal53@uic.edu
+"@type": "Person"
 address: Chicago, IL
 description: > # this means to ignore newlines until "baseurl:"
   PhD student at University of Illinois, Chicago.
